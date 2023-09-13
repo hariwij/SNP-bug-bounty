@@ -5,12 +5,9 @@ nmap_scan() {
     tput setaf 3
     echo "Scanning the target using nmap...\n"
 
-    if [-z "$2"]; then
-        nmap $1
+    if [ -z "$2" ]; then
         nmap -sS -iL $1
-
         echo "Scan completed.\n"
-
     else
         nmap -sS -iL $1 -oN $2
         echo "Scan completed. Results are saved to: $2\n"
@@ -19,9 +16,9 @@ nmap_scan() {
     tput sgr0
 }
 
-while getopts ":tl:o:" opt; do
+while getopts ":t:o:" opt; do
     case $opt in
-    tl) targetlist="$OPTARG" ;;
+    t) targetlist="$OPTARG" ;;
     o) output="$OPTARG" ;;
     \?)
         echo "Invalid option -$OPTARG" >&2

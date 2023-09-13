@@ -6,11 +6,11 @@ nslookup_scan() {
     echo "Scanning the target using nslookup...\n"
 
     if [ -z "$2" ]; then
-        nslookup $1
+        nslookup -type=any $1
         echo "Scan completed.\n"
 
     else
-        nslookup $1 2>$2
+        nslookup -type=any $1 > $2
         echo "Scan completed. Results are saved to: $2\n"
     fi
 

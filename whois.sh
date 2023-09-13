@@ -5,12 +5,11 @@ whois_scan() {
     tput setaf 3
     echo "Scanning the target using whois...\n"
 
-    if [-z "$2"]; then
+    if [ -z "$2" ]; then
         whois $1
         echo "Scan completed.\n"
-
     else
-        whois $1 2>$2
+        whois $1 >$2
         echo "Scan completed. Results are saved to: $2\n"
     fi
 
