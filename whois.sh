@@ -6,13 +6,17 @@ whois_scan() {
     echo "Scanning the target using whois...\n"
 
     if [ -z "$2" ]; then
-        whois $1
+        # read the file containg urls and scan each url
+        while IFS= read -r url; do
+            whois $url
+        done <$1
         echo "Scan completed.\n"
     else
-        whois $1 >$2
+        while IFS= read -r url; do
+            whois $url>>$2
+        done <$1
         echo "Scan completed. Results are saved to: $2\n"
     fi
-
     tput sgr0
 }
 
