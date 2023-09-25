@@ -1,15 +1,19 @@
 #!/bin/bash
 
-# nmap scan
-nmap_scan() {
+# whatweb_scan() function
+whatweb_scan() {
     tput setaf 6
-    echo "Scanning the target/s using nmap...\n"
-
+    echo "Scanning the target using whatweb...\n"
     if [ -z "$2" ]; then
-        nmap -sS -iL $1
+        while IFS= read -r url; do
+            whatweb $url
+        done <$1
         echo "Scan completed.\n"
+
     else
-        nmap -sS -iL $1 -oN $2
+        while IFS= read -r url; do
+            whatweb $url >>$2
+        done <$1
         echo "Scan completed. Results are saved to: $2\n"
     fi
 
@@ -53,7 +57,8 @@ fi
 
 # Calling the functions based on the arguments
 if [ -z "$output" ]; then
-    nmap_scan $list
+    whatweb_scan $list
 else
-    nmap_scan $list $output/nmap.txt
+    whatweb_scan $list $output/whatweb.txt
 fi
+

